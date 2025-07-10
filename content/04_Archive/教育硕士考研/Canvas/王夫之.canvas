@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"431ff7acfa3e8361","type":"group","x":257,"y":33,"width":318,"height":281,"label":"论教师"},
+		{"id":"7cdf1447ad8cfac3","type":"group","x":-107,"y":215,"width":304,"height":278,"label":"道德观"},
+		{"id":"713d0c0d7ee64e5a","type":"group","x":-862,"y":33,"width":338,"height":244,"label":"教育作用"},
+		{"id":"4127e305283643be","type":"group","x":-465,"y":215,"width":290,"height":274,"label":"教学思想"},
+		{"id":"8d6621799c171050","type":"text","text":"王夫之","x":-283,"y":-233,"width":250,"height":60,"color":"1"},
+		{"id":"0019b39f423a93d9","type":"text","text":"“因人而进”","x":-445,"y":235,"width":250,"height":60},
+		{"id":"bac231d45fed43d3","type":"text","text":"“施之有序”","x":-445,"y":322,"width":250,"height":60},
+		{"id":"f20b612563a41ff3","type":"text","text":"学思“相资以为功”","x":-445,"y":409,"width":250,"height":60},
+		{"id":"810f5dd372c02d47","type":"text","text":"治国之本","x":-842,"y":53,"width":298,"height":60},
+		{"id":"d546d0cf10a4cb81","type":"text","text":"对人的发展的重要作用：\n一是继善成性，使之为善\n二是可以使人改恶为善","x":-842,"y":132,"width":298,"height":125},
+		{"id":"d0ac51ed01abee02","type":"text","text":"- 教育作用：治国之本；使人为善，使人改恶为善\n- 教学：因人而进、施之有序、学思“相资以为功”\n- 道德观：“天理”存于“人欲”之中，不以“一人之私”而“废天下之公”\n- 道德修养：立志（志于道：志于封建伦理道德）、自得（学生的自觉）、力行\n- 论教师：必恒其教事、明人者先自明、要“正言”“正行”“正教”","x":-820,"y":-490,"width":399,"height":384,"color":"3"},
+		{"id":"40600599d4ba481b","type":"text","text":"强调立志：“志于道”，即志于封建伦理道德","x":-87,"y":235,"width":264,"height":68},
+		{"id":"9dc6b7311c8b5206","type":"text","text":"主张自得（学生的自觉）","x":-87,"y":326,"width":264,"height":60},
+		{"id":"6e47af6a677f8df5","type":"text","text":"重视力行","x":-87,"y":413,"width":250,"height":60},
+		{"id":"f128fadc3972f5a8","type":"text","text":"要“正言”“正行”“正教”","x":277,"y":234,"width":278,"height":60},
+		{"id":"14af6dcce158fc32","type":"text","text":"“必恒其教事”","x":277,"y":53,"width":250,"height":60},
+		{"id":"e4e53e71d33f1792","type":"text","text":"“明人者先自明”","x":277,"y":144,"width":250,"height":60},
+		{"id":"cdc1861f3949974f","x":-1248,"y":24,"width":241,"height":117,"type":"text","text":"王夫之还认识到了教育的发展必须**受制于政治与经济**"}
+	],
+	"edges":[
+		{"id":"9e9335bd155bb6c3","fromNode":"8d6621799c171050","fromSide":"bottom","toNode":"713d0c0d7ee64e5a","toSide":"top"},
+		{"id":"cd748cd56daf2f60","fromNode":"8d6621799c171050","fromSide":"bottom","toNode":"4127e305283643be","toSide":"top"},
+		{"id":"88c92de48136161f","fromNode":"8d6621799c171050","fromSide":"bottom","toNode":"7cdf1447ad8cfac3","toSide":"top"},
+		{"id":"145bccb63c2a6252","fromNode":"8d6621799c171050","fromSide":"bottom","toNode":"431ff7acfa3e8361","toSide":"top"},
+		{"id":"2cdaa9d7de9f92be","fromNode":"810f5dd372c02d47","fromSide":"left","toNode":"cdc1861f3949974f","toSide":"right"}
+	]
+}

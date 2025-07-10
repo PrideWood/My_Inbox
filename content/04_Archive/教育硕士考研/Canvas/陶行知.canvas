@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"10362fbf3a265d70","x":-915,"y":412,"width":547,"height":377,"type":"group","label":"教育思想基础"},
+		{"id":"5cbcd1eae20aa692","x":-125,"y":371,"width":440,"height":84,"type":"text","text":"提出背景：考虑到了中国学校教育的十分不普及和民众极其缺乏教育的现实"},
+		{"id":"55b0a3e054aaafab","x":-125,"y":494,"width":250,"height":172,"color":"2","type":"text","text":"生活即教育\n强调**生活是教育的源泉，是生活就是教育，人过什么生活就受什么教育**。"},
+		{"id":"9d84c6046529a2a4","x":223,"y":471,"width":599,"height":219,"type":"text","text":"①教育与生活具有**一致性**。陶行知认为教育与生活是融合的，教育不能脱离生活，生活离不开教育。\n②教育对生活具有**从属性**。这就是指生活决定教育，包括生活决定了教育的目的、内容、原则和方法。\n③教育对生活具有**改造性**。这是指教育绝不是被动地适应生活，而是应当对生活起巨大促进作用。"},
+		{"id":"d883d44e3026ec2d","x":223,"y":737,"width":603,"height":281,"type":"text","text":"①所谓“社会即学校”是指“社会含有学校的意味”，或者说“以社会为学校”。陶行知鼓励劳动群众**在社会中学习、向社会学习**，而他本人也在社会上先后办过各种方便劳动群众及其子弟的学习场所，通过社会的大学校，使他们受到教育。\n②所谓“社会即学校”是指“**学校含有社会的意味**”。即学校通过与社会生活结合，一方面“运用社会的力量，使学校进步”，另一方面“动员学校的力量，帮助社会进步”，使学校真正成为社会生活必不可少的组成部分。"},
+		{"id":"e9a100d4e670be1c","x":-125,"y":802,"width":250,"height":151,"color":"2","type":"text","text":"社会即学校\n“生活即教育”思想在学校与社会关系问题上的具体化"},
+		{"id":"531a713fd24c0c1f","x":-125,"y":1076,"width":250,"height":127,"color":"2","type":"text","text":"教学做合一\n**事怎样做便怎样学，怎样学便怎样教**"},
+		{"id":"28404bf2a8919592","x":223,"y":1062,"width":550,"height":156,"type":"text","text":"①“教学做合一”要求“在劳力上劳心”。\n②“教学做合一”是因为“行是知之始”。\n③“教学做合一”要求“有教先学”和“有教有学”。\n④“教学做合一”还是对注入式教学法的否定。"},
+		{"id":"cbd739bc8adf1f6e","x":-895,"y":432,"width":434,"height":95,"type":"text","text":"一生为之奋斗的目标是：真心诚意为使劳苦大众及其子女能够受教育。"},
+		{"id":"edf0ca685bdbb9a9","x":-895,"y":557,"width":465,"height":88,"type":"text","text":"对中国教育弊端的批判：“沿袭陈法”和“仪型他国”→不断破旧，不断创新"},
+		{"id":"14aa0bfcc81c3816","x":-895,"y":677,"width":507,"height":92,"type":"text","text":"两个特殊的教师：在所有**教师中有“两位最伟大的老师”，一是老百姓，二是孩子们**（小先生制）"},
+		{"id":"f420ecd3565d8ea3","x":-250,"y":1290,"width":1072,"height":60,"type":"text","text":"==“艺友制”==师范教育：通过中小学或幼稚园作为教师培养基地，招收艺友（学徒），由在职教师指导其教学实践。"},
+		{"id":"677e962e0689590e","x":-907,"y":953,"width":250,"height":60,"color":"1","type":"text","text":"陶行知"},
+		{"id":"a96d9cc6fb0ee68c","x":-1047,"y":1086,"width":531,"height":264,"color":"3","type":"text","text":"- 生活即教育：生活是教育的源泉，是生活就是教育，人过什么生活就受什么教育（教育与生活具有一致性，对生活具有从属性，对生活具有改造性）\n- 社会即学校：鼓励劳动群众在社会中学习、向社会学习；学校含有社会的意味\n- 教学做合一：事怎样做便怎样学，怎样学便怎样教\n- “艺友制”培养教师"},
+		{"id":"dfd800560bc1dd5a","x":-535,"y":878,"width":210,"height":60,"color":"2","type":"text","text":"生活教育理论"}
+	],
+	"edges":[
+		{"id":"652aac2a804eee85","fromNode":"dfd800560bc1dd5a","fromSide":"right","toNode":"5cbcd1eae20aa692","toSide":"left"},
+		{"id":"36d0d30d15c2ca15","fromNode":"55b0a3e054aaafab","fromSide":"right","toNode":"9d84c6046529a2a4","toSide":"left"},
+		{"id":"abb8dddb930f1f68","fromNode":"e9a100d4e670be1c","fromSide":"right","toNode":"d883d44e3026ec2d","toSide":"left"},
+		{"id":"386d4542b028f3bc","fromNode":"531a713fd24c0c1f","fromSide":"right","toNode":"28404bf2a8919592","toSide":"left"},
+		{"id":"655a228054b2ab61","fromNode":"dfd800560bc1dd5a","fromSide":"right","toNode":"55b0a3e054aaafab","toSide":"left"},
+		{"id":"692862261e06bfc4","fromNode":"dfd800560bc1dd5a","fromSide":"right","toNode":"e9a100d4e670be1c","toSide":"left"},
+		{"id":"458bea14788c8c7a","fromNode":"dfd800560bc1dd5a","fromSide":"right","toNode":"531a713fd24c0c1f","toSide":"left"},
+		{"id":"655cca5b1a82a003","fromNode":"677e962e0689590e","fromSide":"top","toNode":"10362fbf3a265d70","toSide":"bottom"},
+		{"id":"e06370a9d05f4245","fromNode":"677e962e0689590e","fromSide":"right","toNode":"dfd800560bc1dd5a","toSide":"left"},
+		{"id":"b5c5f1c538128e50","fromNode":"677e962e0689590e","fromSide":"right","toNode":"f420ecd3565d8ea3","toSide":"left"}
+	]
+}

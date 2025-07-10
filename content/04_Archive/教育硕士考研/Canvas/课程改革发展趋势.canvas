@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"438214f464f0e4e4","x":-419,"y":-53,"width":250,"height":60,"color":"1","type":"text","text":"课改发展趋势"},
+		{"id":"26091d23eb2cb108","x":-107,"y":-254,"width":250,"height":60,"color":"2","type":"text","text":"课程现代化"},
+		{"id":"630025cb1ac19543","x":-790,"y":-194,"width":250,"height":60,"color":"2","type":"text","text":"课程能力化"},
+		{"id":"7b6b181210718366","x":-910,"y":155,"width":250,"height":60,"color":"2","type":"text","text":"课程生活化"},
+		{"id":"059037e46de7aa1a","x":238,"y":-367,"width":250,"height":60,"type":"text","text":"观念：开放课程观"},
+		{"id":"0ab053ddf817da18","x":293,"y":-254,"width":337,"height":94,"type":"text","text":"内容：基础性、现代性、综合性、民族性与结构性"},
+		{"id":"33c88787db612d2e","x":-1073,"y":-348,"width":250,"height":60,"type":"text","text":"学会学习"},
+		{"id":"5a6e504ebe5a792f","x":-1023,"y":-428,"width":250,"height":60,"type":"text","text":"主动学习"},
+		{"id":"09f956a328b0f784","x":-1307,"y":-194,"width":250,"height":60,"type":"text","text":"创新意识"},
+		{"id":"a206358ec2aa7204","x":-1073,"y":-91,"width":250,"height":60,"type":"text","text":"实践能力"},
+		{"id":"5d155c986d4f02be","x":-40,"y":95,"width":250,"height":60,"color":"2","type":"text","text":"课程综合化"},
+		{"id":"731eb153e9a0b206","x":202,"y":-102,"width":323,"height":98,"type":"text","text":"评价：全过程、量化&非量化、多样手段"}
+	],
+	"edges":[]
+}

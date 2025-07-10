@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"1434871225edc645","x":300,"y":-194,"width":317,"height":473,"type":"group","label":"改进建议"},
+		{"id":"9db67dd74b10c134","type":"text","text":"学校管理","x":-410,"y":-210,"width":250,"height":60,"color":"1"},
+		{"id":"2a260c60232c79d1","type":"text","text":"内容：\n- 教学管理\n- 教师管理\n- 学生管理\n- 总务管理","x":-535,"y":-64,"width":250,"height":214},
+		{"id":"96e1c68f2f11fdf0","type":"text","text":"存在问题：\n- 法制化不健全\n- 没有充分考虑学生和教师的实际情况\n- 没有依据本校实际\n- 不够信息化","x":-202,"y":-108,"width":285,"height":302},
+		{"id":"2ac34c89cb9499d5","type":"text","text":"法治化","x":320,"y":-174,"width":250,"height":60},
+		{"id":"1ce5531f56a7b1a8","type":"text","text":"特色化：管理理念、制度、组织、方法、风格","x":320,"y":170,"width":277,"height":89},
+		{"id":"9bbf8e99980a1f7e","type":"text","text":"人性化","x":320,"y":-88,"width":250,"height":60},
+		{"id":"1cdde8f37f4eb5bf","type":"text","text":"校本化","x":320,"y":-2,"width":250,"height":60},
+		{"id":"9e7f307209c36bab","type":"text","text":"信息化","x":320,"y":84,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0983b6ee791f7ccb","fromNode":"96e1c68f2f11fdf0","fromSide":"right","toNode":"1434871225edc645","toSide":"left"}
+	]
+}

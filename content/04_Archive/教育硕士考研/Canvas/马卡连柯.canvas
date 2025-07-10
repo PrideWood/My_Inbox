@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"d2233b349cb55304","x":-459,"y":-439,"width":191,"height":63,"color":"1","type":"text","text":"马卡连柯"},
+		{"id":"17be55c32dcbac51","x":-457,"y":-315,"width":188,"height":64,"color":"5","type":"text","text":"集体主义教育"},
+		{"id":"ab284d6733d8e79b","x":-93,"y":-458,"width":517,"height":102,"type":"text","text":"尊重学生与严格要求学生相结合**原则**（要尽量多地要求一个人，也要尽可能地尊重一个人。）"},
+		{"id":"7afbbaa314b7924e","x":-93,"y":-308,"width":493,"height":50,"type":"text","text":"**平行教育**影响（集体教育与个别教育相结合原则）"},
+		{"id":"ab605596ec774a82","x":-93,"y":-200,"width":474,"height":81,"type":"text","text":"**前景**教育鼓励集体为达到这个美好的前景，而努力奋斗。"},
+		{"id":"8ef0ca7e80c251bc","x":-539,"y":-200,"width":351,"height":84,"color":"4","type":"text","text":"“通过集体、在集体中、为了集体”是集体教育理论的核心思想"}
+	],
+	"edges":[
+		{"id":"aa6e896273c8d837","fromNode":"d2233b349cb55304","fromSide":"bottom","toNode":"17be55c32dcbac51","toSide":"top"},
+		{"id":"72a99b84bfa5b287","fromNode":"17be55c32dcbac51","fromSide":"bottom","toNode":"8ef0ca7e80c251bc","toSide":"top"},
+		{"id":"e9ff49beb60ba786","fromNode":"17be55c32dcbac51","fromSide":"right","toNode":"ab284d6733d8e79b","toSide":"left"},
+		{"id":"6bbb9ac070b439c8","fromNode":"17be55c32dcbac51","fromSide":"right","toNode":"7afbbaa314b7924e","toSide":"left"},
+		{"id":"baa119c1f16c5f11","fromNode":"17be55c32dcbac51","fromSide":"right","toNode":"ab605596ec774a82","toSide":"left"}
+	]
+}

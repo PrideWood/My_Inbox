@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"9a1269868f0cd93a","x":-343,"y":158,"width":669,"height":100,"type":"group","label":"一个“心”的两个方面"},
+		{"id":"66eff7b9a972ae7c","x":-209,"y":-260,"width":389,"height":100,"type":"group","label":"理与气合"},
+		{"id":"e13d61c8c78a5457","x":-189,"y":-240,"width":72,"height":60,"color":"1","type":"text","text":"理"},
+		{"id":"3d359f0ee5fd78ad","x":91,"y":-240,"width":69,"height":60,"color":"2","type":"text","text":"气"},
+		{"id":"fc584631b0c3cf5d","x":-261,"y":-382,"width":216,"height":60,"type":"text","text":"万物产生的本原"},
+		{"id":"0a36a91c4d11530b","x":23,"y":-382,"width":206,"height":60,"type":"text","text":"构成万物的材料"},
+		{"id":"67b239ea2caa853b","x":-47,"y":-7,"width":66,"height":60,"type":"text","text":"人"},
+		{"id":"714d0a81ccb6ed60","x":-323,"y":178,"width":250,"height":60,"type":"text","text":"天命之性（道心）"},
+		{"id":"b03e736c7b7c8ddc","x":56,"y":178,"width":250,"height":60,"type":"text","text":"气质之性（人心）"},
+		{"id":"00b80402777a2114","x":-359,"y":-37,"width":72,"height":60,"type":"text","text":"性"}
+	],
+	"edges":[
+		{"id":"ad6c011116bdaa8d","fromNode":"e13d61c8c78a5457","fromSide":"right","toNode":"3d359f0ee5fd78ad","toSide":"left","label":"生"},
+		{"id":"c4dbea3079b1cc48","fromNode":"e13d61c8c78a5457","fromSide":"top","toNode":"fc584631b0c3cf5d","toSide":"bottom"},
+		{"id":"031f651e541db5d7","fromNode":"3d359f0ee5fd78ad","fromSide":"top","toNode":"0a36a91c4d11530b","toSide":"bottom"},
+		{"id":"c79a76411641fedf","fromNode":"e13d61c8c78a5457","fromSide":"bottom","toNode":"00b80402777a2114","toSide":"top","label":"性即理"},
+		{"id":"d220ed7ebf77d813","fromNode":"66eff7b9a972ae7c","fromSide":"bottom","toNode":"67b239ea2caa853b","toSide":"top"},
+		{"id":"6d3e7b40e93852f1","fromNode":"67b239ea2caa853b","fromSide":"bottom","toNode":"714d0a81ccb6ed60","toSide":"top"},
+		{"id":"97ca413d9d5ff9f7","fromNode":"67b239ea2caa853b","fromSide":"bottom","toNode":"b03e736c7b7c8ddc","toSide":"top"}
+	]
+}

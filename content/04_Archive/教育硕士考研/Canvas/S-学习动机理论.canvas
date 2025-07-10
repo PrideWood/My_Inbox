@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"dcf96d1e479f7bf4","type":"file","file":"032-教育心理学/强化论.md","x":-370,"y":-201,"width":400,"height":400},
+		{"id":"91ff36a1d7bbdb6d","type":"file","file":"032-教育心理学/需要层次说.md","x":70,"y":-201,"width":400,"height":400},
+		{"id":"5cc6dce3c1c249b0","type":"file","file":"032-教育心理学/自我决定理论.md","x":510,"y":-201,"width":400,"height":400},
+		{"id":"eaf2f3d38c38c29c","type":"file","file":"032-教育心理学/成就动机理论.md","x":950,"y":-201,"width":400,"height":400},
+		{"id":"cc07084d992b4fd4","type":"file","file":"032-教育心理学/自我效能感理论.md","x":1390,"y":-201,"width":400,"height":400},
+		{"id":"72ddcfc4591f1853","type":"file","file":"032-教育心理学/控制点理论.md","x":-370,"y":239,"width":400,"height":400},
+		{"id":"d6c2a7c1cede0399","type":"file","file":"032-教育心理学/成就目标理论.md","x":510,"y":239,"width":400,"height":400},
+		{"id":"b9f26866898e5fa7","type":"file","file":"032-教育心理学/自我价值理论.md","x":950,"y":239,"width":400,"height":400},
+		{"id":"43152ccde0806acc","type":"file","file":"032-教育心理学/调节聚焦理论.md","x":1390,"y":239,"width":400,"height":400},
+		{"id":"e813aebd7868a62c","type":"file","file":"032-教育心理学/归因理论.md","x":70,"y":239,"width":400,"height":400}
+	],
+	"edges":[]
+}

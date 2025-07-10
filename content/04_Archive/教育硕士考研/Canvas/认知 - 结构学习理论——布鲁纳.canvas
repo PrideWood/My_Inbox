@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"fb3f54438ae57898","x":90,"y":47,"width":290,"height":497,"type":"group","label":"学习与教学的基本原则"},
+		{"id":"5ad66310d582c52c","x":-319,"y":47,"width":290,"height":394,"type":"group","label":"学科学习的过程"},
+		{"id":"8fc17253d2cd9b50","type":"text","text":"1.**动作表征**相当于感觉运动阶段，儿童通过做和看别人做来学习。\n2.**映象表征**相当于前运算阶段早期，儿童开始形成图像和表象来表现事件。\n3.**符号表征**相当于前运算阶段后期及以后，儿童通过符号 (尤其是语言) 再现世界。","x":41,"y":-236,"width":513,"height":228},
+		{"id":"dc5813318173429e","x":616,"y":28,"width":528,"height":137,"type":"text","text":"①促进理解。懂得基本原理使得学科更容易理解。\n②利于记忆。\n③增强迁移。\n④(有) 引导知识体系形成。"},
+		{"id":"5712a76e4369be89","x":110,"y":67,"width":250,"height":60,"type":"text","text":"1.注意知识结构"},
+		{"id":"2155799a20bb8d5f","x":110,"y":199,"width":250,"height":60,"type":"text","text":"2.发展学习的准备性"},
+		{"id":"160cd390fd154189","x":110,"y":331,"width":250,"height":60,"type":"text","text":"3.培养直觉思维"},
+		{"id":"f3059ed998ff7940","x":110,"y":464,"width":250,"height":60,"type":"text","text":"4.激发内在动机"},
+		{"id":"26e015ab42bd9f57","type":"text","text":"新知识的获得","x":-299,"y":67,"width":250,"height":60},
+		{"id":"2dcc37671b21b95a","type":"text","text":"知识的转换","x":-299,"y":216,"width":250,"height":60},
+		{"id":"e38a45f003b4a41e","x":-299,"y":361,"width":250,"height":60,"type":"text","text":"评价"},
+		{"id":"5b57c11f29e09527","type":"text","text":"认知表征理论","x":-299,"y":-152,"width":250,"height":60},
+		{"id":"75553e679f0ca413","x":131,"y":591,"width":470,"height":156,"type":"text","text":"①提高智力的潜力；\n②使外部奖赏向内部动机转移；\n③学会将来做出发现的最优方法和策略；\n④帮助信息的保持和检索。"},
+		{"id":"266b76d24512dc65","x":-299,"y":639,"width":250,"height":60,"color":"2","type":"text","text":"发现学习"}
+	],
+	"edges":[
+		{"id":"43563a8f10bf5d9c","fromNode":"5b57c11f29e09527","fromSide":"right","toNode":"8fc17253d2cd9b50","toSide":"left"},
+		{"id":"8e5e1af36e2dcfb2","fromNode":"26e015ab42bd9f57","fromSide":"bottom","toNode":"2dcc37671b21b95a","toSide":"top"},
+		{"id":"cc4ef818f66f11d7","fromNode":"2dcc37671b21b95a","fromSide":"bottom","toNode":"e38a45f003b4a41e","toSide":"top"},
+		{"id":"92b3c8e75fe0c618","fromNode":"5712a76e4369be89","fromSide":"right","toNode":"dc5813318173429e","toSide":"left","label":"必要性"},
+		{"id":"431209e91843183a","fromNode":"5712a76e4369be89","fromSide":"bottom","toNode":"2155799a20bb8d5f","toSide":"top"},
+		{"id":"bb9d0087bd4f5598","fromNode":"2155799a20bb8d5f","fromSide":"bottom","toNode":"160cd390fd154189","toSide":"top"},
+		{"id":"35597c778a6fe2aa","fromNode":"160cd390fd154189","fromSide":"bottom","toNode":"f3059ed998ff7940","toSide":"top"},
+		{"id":"ab6b9e90ab5a593c","fromNode":"266b76d24512dc65","fromSide":"right","toNode":"75553e679f0ca413","toSide":"left","label":"作用"}
+	]
+}

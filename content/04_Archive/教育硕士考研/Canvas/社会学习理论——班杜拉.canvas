@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"a17a2c34efe66b0a","x":161,"y":583,"width":290,"height":367,"type":"group","label":"观察学习的过程"},
+		{"id":"687133183196ba4d","x":-100,"y":-134,"width":685,"height":288,"type":"text","text":"学习≠ (操作) 表现\n班杜拉将新的**学习**与习得行为的**表现**区分开来，强调知识的获得 (学习) 与基于知识的可观察的表现 (行为表现) 是两种不同的过程。尽管学习已经发生了，但除非情境是合适的或者有引起行为的刺激，否则是不会表现出来的。外在强化或者学习者对即将出现的后果的高度相信会影响表现而不是学习。学习者是否把从观察中习得的行为表现出来，依赖于许多因素，如动机、兴趣、外在刺激、觉察到的需求、生理状况、社会压力以及社会竞争等。"},
+		{"id":"df52e85108c60578","x":-100,"y":-289,"width":685,"height":91,"type":"text","text":"==交互决定观==认为个体、环境和行为相互影响。在社会认知理论中，行为和环境都是可以改变的，但谁也不是行为改变的决定因素。"},
+		{"id":"84bca124f04b4705","x":-598,"y":-134,"width":250,"height":60,"type":"text","text":"社会认知理论"},
+		{"id":"4fb9f4e8cb25dbf6","x":-140,"y":223,"width":725,"height":217,"type":"text","text":"(1) ==参与性学习==\n参与性学习是通过实际行动并体验行动后果而进行的学习。那些能导致成功后果的行为被保留下来，而那些导致失败后果的行为则被舍弃。\n(2) ==替代性学习==\n替代性学习是通过观察别人而进行的学习。在替代性学习过程中，学习者没有外显的行为。"},
+		{"id":"eefeb43faab7eda1","x":-245,"y":543,"width":250,"height":60,"color":"1","type":"text","text":"观察学习"},
+		{"id":"a5d3b25529f71c3d","x":181,"y":603,"width":250,"height":60,"type":"text","text":"注意过程"},
+		{"id":"89adb63ab6b5061a","x":181,"y":692,"width":250,"height":60,"type":"text","text":"保持过程"},
+		{"id":"a5da1527368c9269","x":181,"y":781,"width":250,"height":60,"type":"text","text":"复制过程"},
+		{"id":"07292bf4894a8faf","x":181,"y":870,"width":250,"height":60,"type":"text","text":"动机过程"},
+		{"id":"6581d02135a25041","x":547,"y":518,"width":628,"height":230,"type":"text","text":"在注意过程中，学习者注意和知觉榜样情景的各个方面。榜样和观察者的几个特征决定了观察学习的程度：\n\t①观察者比较容易观察那些与他们自身相似的或者被认为是优秀的、热门的和有力的榜样；\n\t②有依赖性的、自身概念低的或焦虑的观察者更容易模仿行为；\n\t③强化的可能性或外在的期望影响个体决定观察谁、观察什么。"},
+		{"id":"a1f13b3928489ebf","x":547,"y":838,"width":792,"height":125,"type":"text","text":"①直接强化，是指在模仿行为之后直接给出的强化，为学习者提供信息和诱因。\n②替代性强化，是指观察者因看到榜样受强化而受到的强化。\n③自我强化，指观察者依照自己的标准对行为做出判断后而进行的强化。"}
+	],
+	"edges":[
+		{"id":"56a5b2444a5f2224","fromNode":"84bca124f04b4705","fromSide":"right","toNode":"df52e85108c60578","toSide":"left"},
+		{"id":"29522c2dd2d86127","fromNode":"84bca124f04b4705","fromSide":"right","toNode":"687133183196ba4d","toSide":"left"},
+		{"id":"4a64ed8428994716","fromNode":"84bca124f04b4705","fromSide":"right","toNode":"4fb9f4e8cb25dbf6","toSide":"left"},
+		{"id":"1e4fca904fc31342","fromNode":"eefeb43faab7eda1","fromSide":"bottom","toNode":"a17a2c34efe66b0a","toSide":"left"},
+		{"id":"61125f4ebd69c290","fromNode":"a5d3b25529f71c3d","fromSide":"bottom","toNode":"89adb63ab6b5061a","toSide":"top"},
+		{"id":"9643ba0682e5a901","fromNode":"89adb63ab6b5061a","fromSide":"bottom","toNode":"a5da1527368c9269","toSide":"top"},
+		{"id":"819190385691031b","fromNode":"a5da1527368c9269","fromSide":"bottom","toNode":"07292bf4894a8faf","toSide":"top"},
+		{"id":"9a9bea04aac5a4c8","fromNode":"a5d3b25529f71c3d","fromSide":"right","toNode":"6581d02135a25041","toSide":"left"},
+		{"id":"5cc2a22ed966e301","fromNode":"07292bf4894a8faf","fromSide":"right","toNode":"a1f13b3928489ebf","toSide":"left"}
+	]
+}

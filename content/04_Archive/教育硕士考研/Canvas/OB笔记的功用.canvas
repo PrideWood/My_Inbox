@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"de72e7c1be12a9ac","x":0,"y":-760,"width":600,"height":320,"type":"group","label":"卷面考查的范围"},
+		{"id":"5803fd7ee37a61fd","type":"text","text":"有序的笔记","x":20,"y":-740,"width":170,"height":60,"color":"1"},
+		{"id":"aa833ec4ef811353","type":"text","text":"正确理解\n科学记忆\n牢固掌握","x":220,"y":-680,"width":160,"height":121,"color":"3"},
+		{"id":"c745f98c94abaaa5","type":"text","text":"内化的知识","x":400,"y":-740,"width":180,"height":60},
+		{"id":"813ef499ebdc11b6","type":"text","text":"应用的能力","x":400,"y":-900,"width":180,"height":60},
+		{"id":"e4199c2eb730a865","type":"text","text":"创新的理论","x":-255,"y":-900,"width":170,"height":60},
+		{"id":"bc0d9400681cb9a6","type":"text","text":"成熟的学科","x":-255,"y":-530,"width":170,"height":60},
+		{"id":"d7b601d28dcc9299","type":"text","text":"庞杂的知识","x":20,"y":-530,"width":170,"height":60},
+		{"id":"98bf1a8958e4455f","type":"text","text":"混乱的信息","x":-255,"y":-340,"width":170,"height":60}
+	],
+	"edges":[
+		{"id":"d3e91132b9c021d9","fromNode":"bc0d9400681cb9a6","fromSide":"right","toNode":"d7b601d28dcc9299","toSide":"left"},
+		{"id":"f6b1b06f26565647","fromNode":"d7b601d28dcc9299","fromSide":"top","toNode":"5803fd7ee37a61fd","toSide":"bottom","label":"笔记工具"},
+		{"id":"5a71196ee894da7e","fromNode":"98bf1a8958e4455f","fromSide":"top","toNode":"bc0d9400681cb9a6","toSide":"bottom"},
+		{"id":"e8e8b3eb5d8702e3","fromNode":"5803fd7ee37a61fd","fromSide":"right","toNode":"c745f98c94abaaa5","toSide":"left","label":"学习"},
+		{"id":"51e08fbe0dbe3de3","fromNode":"c745f98c94abaaa5","fromSide":"top","toNode":"813ef499ebdc11b6","toSide":"bottom","fromEnd":"arrow","label":"实践"},
+		{"id":"72c7c8d8702109dc","fromNode":"813ef499ebdc11b6","fromSide":"left","toNode":"e4199c2eb730a865","toSide":"right"},
+		{"id":"cb7bf0792a23702a","fromNode":"e4199c2eb730a865","fromSide":"bottom","toNode":"bc0d9400681cb9a6","toSide":"top","label":"促进学科发展"},
+		{"id":"77fe672f2bbba282","fromNode":"d7b601d28dcc9299","fromSide":"top","toNode":"e4199c2eb730a865","toSide":"bottom"}
+	]
+}

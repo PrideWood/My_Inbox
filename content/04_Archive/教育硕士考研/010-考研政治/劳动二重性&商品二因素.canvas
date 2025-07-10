@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"05033c591469bd31","x":-233,"y":-348,"width":68,"height":155,"color":"5","type":"text","text":"具体劳动"},
+		{"id":"300f41f064820acf","x":-233,"y":-139,"width":68,"height":154,"color":"5","type":"text","text":"抽象劳动"},
+		{"id":"a31af65979e20968","x":-400,"y":-270,"width":68,"height":180,"color":"3","type":"text","text":"劳动二重性"},
+		{"id":"b67409eb9156f801","x":80,"y":-101,"width":148,"height":79,"color":"5","type":"text","text":"**相同质**\n价值"},
+		{"id":"e76d634403f5d30b","x":80,"y":-310,"width":148,"height":79,"color":"5","type":"text","text":"**不同质**\n使用价值"},
+		{"id":"e018df60f426c9be","x":340,"y":-270,"width":68,"height":180,"color":"4","type":"text","text":"商品二因素"}
+	],
+	"edges":[
+		{"id":"e0be4e38913566d4","fromNode":"a31af65979e20968","fromSide":"right","toNode":"05033c591469bd31","toSide":"left"},
+		{"id":"2b74c1e9efd31a12","fromNode":"a31af65979e20968","fromSide":"right","toNode":"300f41f064820acf","toSide":"left"},
+		{"id":"05e08907d5b6eea9","fromNode":"05033c591469bd31","fromSide":"right","toNode":"e76d634403f5d30b","toSide":"left","label":"特定具体形式"},
+		{"id":"3f16ef5d6754c465","fromNode":"300f41f064820acf","fromSide":"right","toNode":"b67409eb9156f801","toSide":"left","label":"无差别人类劳动"},
+		{"id":"1c6abc9d6a93e45f","fromNode":"e018df60f426c9be","fromSide":"left","toNode":"e76d634403f5d30b","toSide":"right"},
+		{"id":"b08c776f68f8a74a","fromNode":"e018df60f426c9be","fromSide":"left","toNode":"b67409eb9156f801","toSide":"right"}
+	]
+}

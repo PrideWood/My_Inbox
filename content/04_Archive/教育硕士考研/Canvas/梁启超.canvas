@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"967b9b4a55d72d6a","type":"text","text":"教育作用：为“兴民权”而“开民智”","x":-344,"y":138,"width":379,"height":66,"color":"2"},
+		{"id":"d95be9ae879e8335","type":"text","text":"教育宗旨：培养“新民”（具有资产阶级政治信仰、思想观念、道德修养和适应资本主义社会生活的知识技能的新国民）","x":-392,"y":660,"width":475,"height":124,"color":"2"},
+		{"id":"df77cd431b1ab905","type":"text","text":"维新改革主张","x":308,"y":692,"width":250,"height":60,"color":"2"},
+		{"id":"2c8be6cc30e84c52","x":-320,"y":1092,"width":322,"height":70,"color":"2","type":"text","text":"介绍西方学理，指点教育新政"},
+		{"id":"d19187485ecc0196","x":148,"y":1267,"width":250,"height":60,"type":"text","text":"论教育经费"},
+		{"id":"8c16dc6563c8794d","x":741,"y":552,"width":330,"height":60,"type":"text","text":"变科举兴学校（上中下三策）"},
+		{"id":"2176f103500e5ee0","x":741,"y":662,"width":250,"height":60,"type":"text","text":"师范学校，群学之基"},
+		{"id":"e08bd119a6934afe","x":741,"y":778,"width":250,"height":60,"type":"text","text":"女子教育"},
+		{"id":"bb1b5bcdeae9926a","x":741,"y":892,"width":250,"height":60,"type":"text","text":"改革儿童教育"},
+		{"id":"e0183f9eebe0177f","x":1149,"y":579,"width":406,"height":226,"type":"text","text":"倡导师范教育，**不仅是从教师职业的特殊性出发，强调对教师进行专门培养，更重要的目的是希望通过广设师范学校，统一课程设置，培养一批在知识结构和思想观念上都符合维新要求的新教师，推动维新教育活动的全面开展**。"},
+		{"id":"abd903ac69b995d9","type":"text","text":"- 论教育作用：为“兴民权”而“开民智”\n- 教育宗旨：培养“新民”（具有资产阶级政治信仰、思想观念、道德修养和适应资本主义社会生活的知识技能的新国民）\n- 改革主张：变科举兴学校，师范学校群学之基，倡导女子教育，改革儿童教育，系统介绍和提倡根据学生身心发展阶段来确定学制的西方教育心理学成果，教育经费的筹措办法（小学由公产所入支办，教育会议所负责本区域教育财政、庶务，学校税）","x":156,"y":171,"width":585,"height":332,"color":"3"},
+		{"id":"055ddaf7f282e3db","x":118,"y":977,"width":560,"height":115,"type":"text","text":"根据学生身心发展的阶段性特征来确定学制的不同阶段和年限是近代西方教育心理研究的成果，梁启超是**中国近代最早系统介绍和倡导这一理论的人**。"},
+		{"id":"91672aa3838faccc","x":602,"y":1128,"width":608,"height":338,"type":"text","text":"通过对日、德、英、法等国教育经费制度的介绍分析，归结出这些国家在义务教育阶段的经费筹措原则，建议清政府采取如下办法，筹措经费，推行普及教育：\n\t第一，**小学教育经费由公产所入支办**。\n\t第二，学校所在的各级区域，如市、乡镇直至下属的更小区域，都应设立**教育会议所**，由本区域居民选举出若干人作为教育议员，考查该区的办学实绩，负责教育财政、庶务等，地方行政长官不得干预。\n\t第三，**学校税**为法定税收项目，如有违抗不肯交纳者，则由当地教育会议所禀官，依法究取。"}
+	],
+	"edges":[
+		{"id":"e0af9297870c0441","fromNode":"967b9b4a55d72d6a","fromSide":"bottom","toNode":"d95be9ae879e8335","toSide":"top","color":"4"},
+		{"id":"f71d952d1b03deb6","fromNode":"d95be9ae879e8335","fromSide":"right","toNode":"df77cd431b1ab905","toSide":"left","color":"4"},
+		{"id":"62c2654ffbbcb500","fromNode":"d19187485ecc0196","fromSide":"right","toNode":"91672aa3838faccc","toSide":"left"},
+		{"id":"617f35832f7097b2","fromNode":"2c8be6cc30e84c52","fromSide":"right","toNode":"d19187485ecc0196","toSide":"left"},
+		{"id":"11d8d23506fde7d7","fromNode":"2c8be6cc30e84c52","fromSide":"right","toNode":"055ddaf7f282e3db","toSide":"left"},
+		{"id":"a9ff339d1833cc9e","fromNode":"d95be9ae879e8335","fromSide":"bottom","toNode":"2c8be6cc30e84c52","toSide":"top"},
+		{"id":"037bfc3d075893e9","fromNode":"df77cd431b1ab905","fromSide":"right","toNode":"8c16dc6563c8794d","toSide":"left"},
+		{"id":"543f7a4dfcfaa3f2","fromNode":"df77cd431b1ab905","fromSide":"right","toNode":"2176f103500e5ee0","toSide":"left"},
+		{"id":"c792da7dbc4e8aec","fromNode":"df77cd431b1ab905","fromSide":"right","toNode":"e08bd119a6934afe","toSide":"left"},
+		{"id":"93325af819636a82","fromNode":"df77cd431b1ab905","fromSide":"right","toNode":"bb1b5bcdeae9926a","toSide":"left"},
+		{"id":"904562ec9f6dbfa4","fromNode":"2176f103500e5ee0","fromSide":"right","toNode":"e0183f9eebe0177f","toSide":"left"}
+	]
+}

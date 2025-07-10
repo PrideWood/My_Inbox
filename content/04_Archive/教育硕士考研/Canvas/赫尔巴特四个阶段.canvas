@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"ebdfcb5a77e6fc45","type":"text","text":"1. 在一节数学课上，老师要==教授新的数学概念“分数”==。在“明了”阶段，老师会通过**直观教具（如分数圆盘）和清晰的讲解**，帮助学生理解分数的基本概念，如分子和分母的意义。学生在这个阶段的心理状态是静止的专心活动，他们通过观察和听讲来获得对新概念的清晰表象。\n2. 在学生对分数有了基本的了解之后，老师会引导学生将分数**与他们已经学过的整数概念联系起来**，比如通过比较分数和整数在数值上的关系。在这个阶段，学生的心理状态是动态的专心活动，他们开始尝试将新旧知识进行联系，形成初步的理解。\n3. 在学生能够将分数与整数联系起来之后，老师会进一步引导学生进行深入的思考和理解，比如通过解决不同类型的分数问题来寻找规律和结论。在“系统”阶段，学生的心理状态是静止的审思活动，他们需要在教师的指导下，将新旧观念联系的基础上进行深入思考，形成**系统化的知识**。\n4. 学生将所学的知识**应用到实际问题中去**。例如，学生可能会被要求解决一些实际生活中的问题，如分摊物品时使用分数来表示每个人应得的部分。在这个阶段，学生的心理状态是动态的审思活动，他们通过实际应用来验证和巩固所学的知识。\n\n通过这四个阶段，赫尔巴特强调了教学应该是一个有序的过程，每个阶段都对应着学生心理活动的不同状态，以及教师应采用的不同教学方法。\n","x":-60,"y":-239,"width":760,"height":540},
+		{"id":"f7791e24e96c9c55","type":"text","text":"期望","x":-240,"y":-77,"width":140,"height":55,"color":"5"},
+		{"id":"dfc0ec13765bf874","type":"text","text":"联合（联想）","x":-464,"y":-77,"width":184,"height":55,"color":"2"},
+		{"id":"f84e717bb34540d6","type":"text","text":"明了（清晰）","x":-464,"y":-211,"width":184,"height":55,"color":"2"},
+		{"id":"44517c638d1842b1","type":"text","text":"注意","x":-240,"y":-211,"width":140,"height":55,"color":"5"},
+		{"id":"932376aaffc36afa","type":"text","text":"要求","x":-240,"y":57,"width":140,"height":55,"color":"5"},
+		{"id":"6c3c79ab3f18f580","type":"text","text":"系统","x":-464,"y":57,"width":184,"height":55,"color":"2"},
+		{"id":"851aca265fa00c49","type":"text","text":"方法（应用）","x":-464,"y":191,"width":184,"height":55,"color":"2"},
+		{"id":"c09c7030f31107ac","type":"text","text":"行动","x":-240,"y":191,"width":140,"height":55,"color":"5"}
+	],
+	"edges":[
+		{"id":"68ccf1c781fba49a","fromNode":"f84e717bb34540d6","fromSide":"bottom","toNode":"dfc0ec13765bf874","toSide":"top"},
+		{"id":"f1194f904fa58b7a","fromNode":"dfc0ec13765bf874","fromSide":"bottom","toNode":"6c3c79ab3f18f580","toSide":"top"},
+		{"id":"a64d16bcd9f52bb6","fromNode":"6c3c79ab3f18f580","fromSide":"bottom","toNode":"851aca265fa00c49","toSide":"top"},
+		{"id":"f413974ee7798a4f","fromNode":"44517c638d1842b1","fromSide":"bottom","toNode":"f7791e24e96c9c55","toSide":"top"},
+		{"id":"056dae651b8b4578","fromNode":"932376aaffc36afa","fromSide":"bottom","toNode":"c09c7030f31107ac","toSide":"top"},
+		{"id":"f242498da74c8511","fromNode":"f7791e24e96c9c55","fromSide":"bottom","toNode":"932376aaffc36afa","toSide":"top"}
+	]
+}

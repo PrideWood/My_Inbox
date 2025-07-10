@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"76d3039634b93974","x":-320,"y":-160,"width":290,"height":396,"color":"4","type":"group","label":"安德森"},
+		{"id":"c155573ea656c38f","x":60,"y":-160,"width":290,"height":396,"color":"5","type":"group","label":"梅耶"},
+		{"id":"b7ac6a36d88f2d98","type":"text","text":"陈述性知识","x":-300,"y":-140,"width":250,"height":60},
+		{"id":"57f6e7af39115aae","type":"text","text":"语义知识","x":80,"y":-140,"width":250,"height":60},
+		{"id":"c631a64deea159af","type":"text","text":"程序性知识\n（用于具体情境）","x":80,"y":-36,"width":250,"height":72},
+		{"id":"b626274c45ceec68","type":"text","text":"条件性知识\n（有关学习、记忆、问题解决的一般方法）","x":80,"y":96,"width":250,"height":120},
+		{"id":"beaa258335837d6d","type":"text","text":"程序性知识","x":-300,"y":36,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"587b7315a294ad0c","fromNode":"b7ac6a36d88f2d98","fromSide":"right","toNode":"57f6e7af39115aae","toSide":"left"},
+		{"id":"27e1605e6db8b09e","fromNode":"beaa258335837d6d","fromSide":"right","toNode":"c631a64deea159af","toSide":"left"},
+		{"id":"f803b60f4544d822","fromNode":"beaa258335837d6d","fromSide":"right","toNode":"b626274c45ceec68","toSide":"left"}
+	]
+}

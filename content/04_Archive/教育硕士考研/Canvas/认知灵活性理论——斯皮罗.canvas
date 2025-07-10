@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"cbf65bae21fd4d80","x":-16,"y":-325,"width":212,"height":93,"type":"text","text":"**初级知识获得**与**高级知识获得**"},
+		{"id":"ceb56da42524e082","type":"text","text":"**结构良好领域知识**与**结构不良领域知识**","x":-510,"y":-325,"width":245,"height":93},
+		{"id":"a1a82830e97ee6bb","x":-167,"y":-163,"width":426,"height":312,"type":"text","text":"斯皮罗等人根据对知识建构过程以及高级学习的基本认识提出了随机通达教学。随机通达教学理论认为，**对相同内容的学习要在不同时间多次进行，每次的情境都是经过改组的，而且目的不同，分别着眼于问题的不同侧面**。这种反复绝非为巩固知识技能而进行的简单重复，因为在各次学习的情境方面会有互不重合的方面，而这将会使学习者对概念知识获得新的理解。"},
+		{"id":"1ec936eac594d2e3","x":-510,"y":-37,"width":250,"height":60,"type":"text","text":"随机通达教学"}
+	],
+	"edges":[
+		{"id":"2ea1439c58de3eb6","fromNode":"ceb56da42524e082","fromSide":"right","toNode":"cbf65bae21fd4d80","toSide":"left"},
+		{"id":"22f08a0b8f3c3cb0","fromNode":"1ec936eac594d2e3","fromSide":"right","toNode":"a1a82830e97ee6bb","toSide":"left"}
+	]
+}

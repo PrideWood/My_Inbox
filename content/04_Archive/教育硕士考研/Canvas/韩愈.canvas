@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"2cc73eac03d3acb2","type":"text","text":"- 复兴儒学与反对佛老\n- 论人性与教育的作用：性之品有上中下，人性决定教育所起的作用、教育的权利、教育的主要内容\n- 论学校教育与措施\n    - 用德礼而重学校\n    - 学校的任务在训练官吏\n    - 整顿国学、转变学风\n    - 恢复发展地方学校\n- 论教学\n    - 目的、内容：修先王之道，读六艺之文\n    - 文道关系：文是手段，道是目的；文是形式，道是内容，文道合一，而道为主\n    - 学习：努力勤学、多读博学、积极思考\n    - 方法：因材施教、因材使用，注意生动活泼\n- 论师道：学者必有师，（教师的任务）传道受业解惑，学无常师，不耻相师","x":-177,"y":-209,"width":616,"height":568,"color":"3"},
+		{"id":"7ab34e802cfbf685","type":"text","text":"学校教育与措施","x":675,"y":675,"width":250,"height":60},
+		{"id":"11ed56197309b6e2","type":"text","text":"复兴儒学，反对佛老","x":6,"y":675,"width":250,"height":60},
+		{"id":"5ad0aed3a2f7d3bc","type":"text","text":"论人性与教育的作用","x":6,"y":1223,"width":250,"height":60},
+		{"id":"ca2359e1c9e599b0","type":"text","text":"性之品有上中下，人性决定教育所起的作用、教育的权利、教育的主要内容","x":-68,"y":1460,"width":399,"height":97},
+		{"id":"6c094e011c6904c9","type":"text","text":"用德礼而重学校","x":1064,"y":531,"width":250,"height":60},
+		{"id":"1314884270625e84","type":"text","text":"学校的任务在训练官吏","x":1064,"y":645,"width":276,"height":60},
+		{"id":"7533c670f297a649","type":"text","text":"整顿国学","x":1064,"y":761,"width":250,"height":60},
+		{"id":"d70cc5c5e8a2783b","type":"text","text":"恢复发展地方学校","x":1064,"y":887,"width":250,"height":60},
+		{"id":"7faeb9874a187719","type":"text","text":"论教学","x":675,"y":299,"width":250,"height":60},
+		{"id":"f53d0244b05cf6a8","type":"text","text":"目的在于“**修先王之道**”，而其途径则是“**读六艺之文**”","x":541,"y":-36,"width":336,"height":87},
+		{"id":"516060ee4f244556","type":"text","text":"文是手段，道是目的；文是形式，道是内容，文道合一，而道为主","x":956,"y":31,"width":358,"height":88},
+		{"id":"95ee068f66a9c070","type":"text","text":"论学习：努力勤学、多读博学、积极思考","x":1157,"y":152,"width":240,"height":86},
+		{"id":"d62e1ca95b796d82","type":"text","text":"教学方法：因材施教、因材使用，注意生动活泼","x":1189,"y":272,"width":281,"height":87},
+		{"id":"b0c4c6132c83690a","type":"text","text":"论师道","x":672,"y":1229,"width":250,"height":60},
+		{"id":"aebe3fbaf249c22e","type":"text","text":"学者必有师","x":1038,"y":1130,"width":250,"height":60},
+		{"id":"e271d56fb3af58e8","type":"text","text":"学无常师，不耻相师","x":1038,"y":1408,"width":250,"height":60},
+		{"id":"53230be7b3f36f55","type":"text","text":"（教师的基本任务）传道受业解惑","x":1064,"y":1259,"width":346,"height":67},
+		{"id":"89fe0c70eab1c976","type":"text","text":"①韩愈认为儒学纲领是**仁义道德，这就是先王之道，也是先王之教**。先王之道包括了封建社会精神生活和物质生活的一切方面。其中道德问题既是出发点，也是归宿。这表明儒学是与民生实际结合在一起的。\n②在道德规范方面，韩愈把**仁义与道德并提**，基本内容是仁义。仁义道德是总纲，体现在政治制度上就是礼乐刑政，具体的制度规定君臣上下劳心劳力的分工。\n③韩愈把仁义道德说成是历代圣人相互传授的传统，认为有了这个**道统**，与佛教宗派传法世系的祖统相抗衡也就更有力了。\n④韩愈特别**推崇孔丘和孟轲**。他把孔丘尊为历史上超过尧舜的最高圣贤，并高度地评价孟轲是孔学最忠实的继承者，认为孟轲之后，圣人之道无人继传。他鼓起任道的勇气，欲挽救先王之道，再兴而传。","x":-714,"y":503,"width":646,"height":404}
+	],
+	"edges":[
+		{"id":"26bbcf647aa49edd","fromNode":"5ad0aed3a2f7d3bc","fromSide":"bottom","toNode":"ca2359e1c9e599b0","toSide":"top"},
+		{"id":"6fb2d55882864b76","fromNode":"2cc73eac03d3acb2","fromSide":"bottom","toNode":"11ed56197309b6e2","toSide":"top","color":"2"},
+		{"id":"4d86d9817cd79db7","fromNode":"11ed56197309b6e2","fromSide":"bottom","toNode":"5ad0aed3a2f7d3bc","toSide":"top","color":"2"},
+		{"id":"3ed73e8681e055b7","fromNode":"7ab34e802cfbf685","fromSide":"right","toNode":"6c094e011c6904c9","toSide":"left"},
+		{"id":"6394dfd262507498","fromNode":"7ab34e802cfbf685","fromSide":"right","toNode":"1314884270625e84","toSide":"left"},
+		{"id":"1a388c232a3ba3d1","fromNode":"7ab34e802cfbf685","fromSide":"right","toNode":"7533c670f297a649","toSide":"left"},
+		{"id":"85d3f6bba153fbf9","fromNode":"7ab34e802cfbf685","fromSide":"right","toNode":"d70cc5c5e8a2783b","toSide":"left"},
+		{"id":"273792bf140b6c54","fromNode":"7faeb9874a187719","fromSide":"top","toNode":"f53d0244b05cf6a8","toSide":"bottom"},
+		{"id":"af3eb54268d0366c","fromNode":"7faeb9874a187719","fromSide":"top","toNode":"516060ee4f244556","toSide":"left"},
+		{"id":"a6e3459ef18fe14c","fromNode":"7faeb9874a187719","fromSide":"top","toNode":"95ee068f66a9c070","toSide":"left"},
+		{"id":"cd727cc69abc4343","fromNode":"7faeb9874a187719","fromSide":"top","toNode":"d62e1ca95b796d82","toSide":"left"},
+		{"id":"de7ac86fe6a61ef2","fromNode":"7ab34e802cfbf685","fromSide":"top","toNode":"7faeb9874a187719","toSide":"bottom","color":"2"},
+		{"id":"dfbeda9f63334a98","fromNode":"11ed56197309b6e2","fromSide":"right","toNode":"7ab34e802cfbf685","toSide":"left","color":"2"},
+		{"id":"7cdfd00530922122","fromNode":"7ab34e802cfbf685","fromSide":"bottom","toNode":"b0c4c6132c83690a","toSide":"top","color":"2"},
+		{"id":"730127f30e2ff74a","fromNode":"b0c4c6132c83690a","fromSide":"right","toNode":"aebe3fbaf249c22e","toSide":"left"},
+		{"id":"a3c52bc842f45a2f","fromNode":"b0c4c6132c83690a","fromSide":"right","toNode":"53230be7b3f36f55","toSide":"left"},
+		{"id":"e8b2844d5c4b12ff","fromNode":"b0c4c6132c83690a","fromSide":"right","toNode":"e271d56fb3af58e8","toSide":"left"},
+		{"id":"0bc97015754ef729","fromNode":"11ed56197309b6e2","fromSide":"left","toNode":"89fe0c70eab1c976","toSide":"right"}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"7820b0cb50652f5b","type":"file","file":"Canvas/符号学习理论——托尔曼.canvas","x":-337,"y":-158,"width":400,"height":400},
+		{"id":"2f1603074b3c1fbf","type":"file","file":"Canvas/认知 - 结构学习理论——布鲁纳.canvas","x":123,"y":-158,"width":400,"height":400},
+		{"id":"57be2b3de8040d54","type":"file","file":"Canvas/认知同化学习理论——奥苏伯尔.canvas","x":576,"y":-158,"width":400,"height":400},
+		{"id":"fbc3b1f2ac467020","type":"file","file":"Canvas/信息加工理论、认知负荷理论——加涅.canvas","x":1041,"y":-158,"width":400,"height":400},
+		{"id":"2b187a3a03e46b14","type":"file","file":"Canvas/经典性条件作用理论——巴甫洛夫.canvas","x":-337,"y":-651,"width":400,"height":400},
+		{"id":"5bd46041581bedfe","type":"file","file":"Canvas/华生的行为主义.canvas","x":123,"y":-651,"width":400,"height":400},
+		{"id":"5a4886140149a94a","type":"file","file":"Canvas/联结主义理论——桑代克.canvas","x":576,"y":-651,"width":400,"height":400},
+		{"id":"1aace6fc32f49984","type":"file","file":"Canvas/操作性条件作用理论——斯金纳.canvas","x":1041,"y":-651,"width":400,"height":400},
+		{"id":"c466c7663dc9ae16","type":"file","file":"Canvas/社会学习理论——班杜拉.canvas","x":1502,"y":-651,"width":400,"height":400},
+		{"id":"bf2d0dd3187be611","type":"file","file":"Canvas/生成学习理论——维特罗克.canvas","x":-337,"y":326,"width":400,"height":400},
+		{"id":"ae6aef94321fbf19","type":"file","file":"Canvas/认知灵活性理论——斯皮罗.canvas","x":123,"y":326,"width":400,"height":400},
+		{"id":"c44719d7745801db","type":"file","file":"Canvas/文化内化理论——维果茨基、活动理论——列昂节夫.canvas","x":576,"y":326,"width":400,"height":400},
+		{"id":"3e317205cd687569","type":"file","file":"Canvas/情境性认知与学习理论.canvas","x":1041,"y":326,"width":400,"height":400},
+		{"id":"af92c9e0e507d101","x":1859,"y":326,"width":400,"height":400,"type":"file","file":"Canvas/自我实现心理学——马斯洛.canvas"},
+		{"id":"0585752c7230ab2d","x":2315,"y":326,"width":400,"height":400,"type":"file","file":"Canvas/“以学生为中心”自由学习观——罗杰斯.canvas"}
+	],
+	"edges":[]
+}

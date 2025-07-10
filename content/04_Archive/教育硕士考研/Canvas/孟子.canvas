@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"e2904d8f62d7b67d","type":"text","text":"先验主义","x":-138,"y":-456,"width":250,"height":60},
+		{"id":"30ee2e967d74e3e6","type":"text","text":"人的本质的深刻认识","x":-138,"y":-336,"width":250,"height":60},
+		{"id":"bff65b09a76f5001","type":"text","text":"性善论","x":-504,"y":-396,"width":250,"height":60,"color":"2"},
+		{"id":"39432e9219cc8c7b","type":"text","text":"仁、义、礼、智等道德观念，就发源于先天就有的恻隐之心、羞恶之心、辞让之心和是非之心，但是由于后天接触的环境不同，有人因各种物欲影响，失去其善性，从而为恶，所以需要进行教育，否则人就要变为禽兽。","x":-578,"y":-734,"width":399,"height":218},
+		{"id":"c8e2cf9ece7e356b","type":"text","text":"教育作用：扩充善性\n教育目的：明人伦","x":-81,"y":467,"width":250,"height":73,"color":"2"},
+		{"id":"5ce33658297f2149","type":"text","text":"- “性善论”——教育理论的基础\n- 论教育作用：扩充善性\n- 教育目的：明人伦\n- 论理想人格“大丈夫”：富贵不能淫，贫贱不能移，威武不能屈；持志养气、动心忍性、存心养性、反求诸己\n- 论教学：深造自得、盈科而进、教亦多术、专心致志","x":-1133,"y":467,"width":587,"height":245,"color":"3"},
+		{"id":"2b61598bcfa1d9f9","type":"text","text":"学：深造自得、盈科而进、教亦多术、专心致志","x":804,"y":467,"width":280,"height":102,"color":"2"},
+		{"id":"e160420337184346","type":"text","text":"理想人格“大丈夫”：富贵不能淫，贫贱不能移，威武不能屈；持志养气、动心忍性、存心养性、反求诸己","x":306,"y":-456,"width":386,"height":120,"color":"2"},
+		{"id":"1a812945efa4c6d4","type":"text","text":"- 持志养气：坚持崇高志向，不断提高精神境界\n- 动心忍性：在逆境中磨炼意志、聪明才智\n- 存心养性：寡欲，发挥理性思维\n- 反求诸己：“厚于责己”，严于律己，时时反思","x":194,"y":-734,"width":611,"height":168},
+		{"id":"e994ac9a54866492","type":"text","text":"**人伦——父子有亲，君臣有义，夫妇有别，长幼有序，朋友有信**，处理好这==五种最基本的人际关系==","x":-138,"y":654,"width":364,"height":116}
+	],
+	"edges":[
+		{"id":"2b31d62791d951f6","fromNode":"bff65b09a76f5001","fromSide":"top","toNode":"39432e9219cc8c7b","toSide":"bottom"},
+		{"id":"6371e5e5d50781b8","fromNode":"bff65b09a76f5001","fromSide":"right","toNode":"e2904d8f62d7b67d","toSide":"left"},
+		{"id":"c281663d348c9005","fromNode":"bff65b09a76f5001","fromSide":"right","toNode":"30ee2e967d74e3e6","toSide":"left"},
+		{"id":"95d36aa5a0cf6491","fromNode":"e160420337184346","fromSide":"top","toNode":"1a812945efa4c6d4","toSide":"bottom"},
+		{"id":"332f39572f129502","fromNode":"5ce33658297f2149","fromSide":"top","toNode":"bff65b09a76f5001","toSide":"bottom","color":"2"},
+		{"id":"c12334238e8f2af5","fromNode":"bff65b09a76f5001","fromSide":"bottom","toNode":"c8e2cf9ece7e356b","toSide":"top","color":"2"},
+		{"id":"265d11a663294eea","fromNode":"c8e2cf9ece7e356b","fromSide":"top","toNode":"e160420337184346","toSide":"bottom","color":"2"},
+		{"id":"24405484003febf9","fromNode":"e160420337184346","fromSide":"bottom","toNode":"2b61598bcfa1d9f9","toSide":"top","color":"2"},
+		{"id":"9388540766506043","fromNode":"c8e2cf9ece7e356b","fromSide":"bottom","toNode":"e994ac9a54866492","toSide":"top"}
+	]
+}

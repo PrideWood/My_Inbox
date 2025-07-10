@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"f494aeb62bdf3776","type":"text","text":"教师","x":-423,"y":-730,"width":225,"height":63,"color":"1"},
+		{"id":"4f755971d6bfa5b9","type":"text","text":"教师专业发展：\n1. 专业理想的建立\n2. 专业知识的拓展：量的拓展、质的深化、结构的优化\n3. 专业能力的发展\n4. 专业自我（专业品质）的形成 ","x":-423,"y":-608,"width":405,"height":304},
+		{"id":"cddaf848a6d8fecb","type":"text","text":"教师专业素养\n1. 高尚的师德\n2. 现代人的素质\n3. 渊博的知识和多方面的才能\n4. 掌握教育科学和教育能力","x":-423,"y":-215,"width":362,"height":222},
+		{"id":"b62b68be86509d9d","type":"text","text":"1. 努力践行终身学习\n2. 坚持做好反思\n3. 善于质疑和记录","x":45,"y":-172,"width":277,"height":136},
+		{"id":"cb615ef23d0f7e5c","type":"text","text":"职业角色：\n- 知识传授者\n- 行为示范者\n- 班级领导者\n- 心理保健医生\n- 教育研究者","x":21,"y":-608,"width":239,"height":304},
+		{"id":"374803aa32f6a5cf","type":"text","text":"教师角色冲突\n- 班集体的组织者和管理者vs学生的知心朋友\n- 被领导者vs班级管理者\n- 社会和学校的代言人vs学生和家长的代言人\n- 楷模角色vs普通人角色\n- 付出投入多vs低社会支持\n- 职业成果模糊vs个人成就需要","x":357,"y":-608,"width":483,"height":304},
+		{"id":"becd155e3678d719","type":"text","text":"良好师生关系：\n1. 尊师爱生，相互配合\n2. 民主平等，和谐亲密\n3. 共享共创，教学相长","x":-423,"y":89,"width":375,"height":182},
+		{"id":"7703da0880845d28","type":"text","text":"1. 了解和研究学生\n2. 树立正确的学生观\n3. 热爱、尊重学生，公平对待学生\n4. 主动与学生沟通，善于与学生交往\n5. 努力提高自我修养，健全人格","x":220,"y":81,"width":475,"height":199},
+		{"id":"2d4a672870c484ef","type":"text","text":"- 社会创造宽松环境\n- 学校减轻教师负担\n- 教师增强角色适应能力","x":979,"y":-608,"width":335,"height":149},
+		{"id":"2db191815d5aff0e","x":520,"y":-134,"width":250,"height":60,"type":"text","text":"教师劳动"},
+		{"id":"49e6e293634f0e6f","x":979,"y":-79,"width":335,"height":160,"type":"text","text":"价值：\n- 个人价值（自我实现）\n- 社会价值"},
+		{"id":"88199ba07914c0fd","type":"text","text":"特点：\n- 示范性\n- 创造性\n- 空间的广延性和时间的连续性","x":979,"y":-351,"width":369,"height":179}
+	],
+	"edges":[
+		{"id":"3d596a2670310648","fromNode":"cddaf848a6d8fecb","fromSide":"right","toNode":"b62b68be86509d9d","toSide":"left"},
+		{"id":"851acc5f957e1d6a","fromNode":"cb615ef23d0f7e5c","fromSide":"right","toNode":"374803aa32f6a5cf","toSide":"left"},
+		{"id":"b8f8bc4e19d867cb","fromNode":"374803aa32f6a5cf","fromSide":"right","toNode":"2d4a672870c484ef","toSide":"left"},
+		{"id":"04ffe3d066dc82d4","fromNode":"becd155e3678d719","fromSide":"right","toNode":"7703da0880845d28","toSide":"left","label":"构建"},
+		{"id":"8feef0d990ab9da6","fromNode":"2db191815d5aff0e","fromSide":"right","toNode":"88199ba07914c0fd","toSide":"left"},
+		{"id":"b620107f23f1da5e","fromNode":"2db191815d5aff0e","fromSide":"right","toNode":"49e6e293634f0e6f","toSide":"left"}
+	]
+}

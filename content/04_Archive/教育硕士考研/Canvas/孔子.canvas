@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"07a0e6883e478fda","type":"text","text":"教育的作用","x":-381,"y":-232,"width":250,"height":60,"color":"3"},
+		{"id":"1cea0bed64129c47","type":"text","text":"对个人：影响个性\n“性相近，习相远","x":-33,"y":-140,"width":236,"height":84},
+		{"id":"a7d167604d5791ce","type":"text","text":"对社会：\n教育本身政治工作\n经济：庶富教\n法律：更有效","x":-40,"y":-400,"width":250,"height":143},
+		{"id":"70d871b8f9a2eed6","type":"text","text":"“有教无类”","x":-560,"y":320,"width":250,"height":60,"color":"3"},
+		{"id":"57dab4cf3ffa5fd5","type":"text","text":"“学而优则仕”：培养有德才的君子","x":-435,"y":1000,"width":263,"height":75,"color":"3"},
+		{"id":"abd9d86c2f856a07","type":"text","text":"教学方法","x":203,"y":80,"width":250,"height":60,"color":"3"},
+		{"id":"79e4d237171cc1a3","type":"text","text":"德行修养","x":203,"y":927,"width":250,"height":60,"color":"3"},
+		{"id":"21cbeefcbfe49114","type":"text","text":"教师典范","x":840,"y":927,"width":250,"height":60,"color":"3"},
+		{"id":"d8bcb20168170b8a","type":"text","text":"历史影响","x":840,"y":680,"width":250,"height":60,"color":"3"},
+		{"id":"3b7c14b1e1dc044d","type":"text","text":"孔子","x":-1000,"y":-140,"width":250,"height":60,"color":"3"},
+		{"id":"49c003a87675f673","type":"text","text":"“六艺”（六经）","x":-960,"y":740,"width":250,"height":60,"color":"3"},
+		{"id":"bd86be94195dcc00","type":"text","text":"- 重视教育的功用：庶富教；性相近习相远\n- “有教无类”的主张\n- 培养有才德的君子：德政、学而优则仕\n- “六艺”的教学内容：六种教材，重人事、文事；轻劳动\n- 创新的教学方法：学思行，启发，因材施教，好学求是\n- 自觉的德行修养：礼&仁；立志、克己、力行、中庸、内省、改过\n- 树立教师的典范：学而不厌、温故知新、诲人不倦、以身作则、爱护学生、教学相长","x":622,"y":-255,"width":565,"height":335,"color":"3"}
+	],
+	"edges":[
+		{"id":"1dd2759438e5bf6b","fromNode":"07a0e6883e478fda","fromSide":"right","toNode":"a7d167604d5791ce","toSide":"left"},
+		{"id":"7c0f752c0b6db7d7","fromNode":"07a0e6883e478fda","fromSide":"right","toNode":"1cea0bed64129c47","toSide":"left"},
+		{"id":"6610020e1e51fb0f","fromNode":"3b7c14b1e1dc044d","fromSide":"right","toNode":"07a0e6883e478fda","toSide":"left","color":"2"},
+		{"id":"6a03b4fbc0dd17e2","fromNode":"07a0e6883e478fda","fromSide":"bottom","toNode":"70d871b8f9a2eed6","toSide":"top","color":"2"},
+		{"id":"95220a5c922b504d","fromNode":"70d871b8f9a2eed6","fromSide":"bottom","toNode":"57dab4cf3ffa5fd5","toSide":"top","color":"2"},
+		{"id":"964821b8320deda9","fromNode":"57dab4cf3ffa5fd5","fromSide":"bottom","toNode":"49c003a87675f673","toSide":"bottom","color":"2"},
+		{"id":"b8c774acb36b6072","fromNode":"49c003a87675f673","fromSide":"right","toNode":"abd9d86c2f856a07","toSide":"left","color":"2"},
+		{"id":"4d615111b289309f","fromNode":"abd9d86c2f856a07","fromSide":"bottom","toNode":"79e4d237171cc1a3","toSide":"top","color":"2"},
+		{"id":"2eaea7844e328313","fromNode":"79e4d237171cc1a3","fromSide":"bottom","toNode":"21cbeefcbfe49114","toSide":"bottom","color":"2"},
+		{"id":"78216d64bfc391cd","fromNode":"21cbeefcbfe49114","fromSide":"top","toNode":"d8bcb20168170b8a","toSide":"bottom","color":"2"}
+	]
+}

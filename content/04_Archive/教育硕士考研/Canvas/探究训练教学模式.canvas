@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"b8ed20c569dc0413","type":"text","text":"确定问题情境","x":-216,"y":-193,"width":250,"height":60},
+		{"id":"188eeb15475f0aa9","type":"text","text":"分析因果，提出假设","x":-216,"y":-61,"width":250,"height":60},
+		{"id":"97c3d3bcab864970","type":"text","text":"设计方案，假设验证","x":-216,"y":71,"width":250,"height":60},
+		{"id":"ba6930330ede3847","type":"text","text":"分析数据，得出结论","x":-216,"y":203,"width":250,"height":60},
+		{"id":"b1dddacb7dec51aa","type":"text","text":"反馈与反思","x":-216,"y":334,"width":250,"height":60},
+		{"id":"92acf79cac2b8b81","type":"text","text":"目的、方向、动机和兴趣","x":191,"y":-193,"width":310,"height":60},
+		{"id":"3b281d047f099795","type":"text","text":"提供充足的验证条件","x":221,"y":69,"width":250,"height":60},
+		{"id":"8cad6f180e274c77","type":"text","text":"提醒决不能干涉学生对问题的思考","x":207,"y":-73,"width":278,"height":82},
+		{"id":"3c8a0ad2b2dea168","type":"text","text":"交流、检查、表述共识","x":221,"y":189,"width":250,"height":60},
+		{"id":"eced6c780c72cd13","type":"text","text":"肯定/否定→引导学生自己寻找反馈资源\n敢于质疑权威论断","x":209,"y":334,"width":275,"height":123},
+		{"id":"dc49e9d590d67f04","x":222,"y":-302,"width":250,"height":60,"type":"text","text":"教师活动"}
+	],
+	"edges":[
+		{"id":"8453862e45e0f417","fromNode":"b8ed20c569dc0413","fromSide":"bottom","toNode":"188eeb15475f0aa9","toSide":"top"},
+		{"id":"a0359329713a802a","fromNode":"188eeb15475f0aa9","fromSide":"bottom","toNode":"97c3d3bcab864970","toSide":"top"},
+		{"id":"1cb7460a3efc2a8c","fromNode":"97c3d3bcab864970","fromSide":"bottom","toNode":"ba6930330ede3847","toSide":"top"},
+		{"id":"11cf6591f7c4751f","fromNode":"ba6930330ede3847","fromSide":"bottom","toNode":"b1dddacb7dec51aa","toSide":"top"},
+		{"id":"ed4c68303c5fbd0a","fromNode":"92acf79cac2b8b81","fromSide":"bottom","toNode":"8cad6f180e274c77","toSide":"top"},
+		{"id":"da176bb30ccc1674","fromNode":"8cad6f180e274c77","fromSide":"bottom","toNode":"3b281d047f099795","toSide":"top"},
+		{"id":"1e9470264b614119","fromNode":"3b281d047f099795","fromSide":"bottom","toNode":"3c8a0ad2b2dea168","toSide":"top"},
+		{"id":"a50d8073f9004c97","fromNode":"3c8a0ad2b2dea168","fromSide":"bottom","toNode":"eced6c780c72cd13","toSide":"top"}
+	]
+}

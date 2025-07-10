@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"1f2c0363650a5940","type":"text","text":"追求剩余价值","x":-472,"y":-320,"width":72,"height":220,"color":"3"},
+		{"id":"38f225eb8405d5a9","type":"text","text":"改进技术","x":-307,"y":-285,"width":72,"height":150},
+		{"id":"21ce07603b1f1ff9","type":"text","text":"V的比重越来越小","x":-140,"y":-151,"width":237,"height":51},
+		{"id":"d7776b9db49894e6","type":"text","text":"C的比重越来越大","x":-140,"y":-320,"width":237,"height":53},
+		{"id":"dadb1868ae31fad2","type":"text","text":"资本有机构成C:V不断提高","x":180,"y":-253,"width":216,"height":87,"color":"5"}
+	],
+	"edges":[
+		{"id":"c42e462c6c5bba40","fromNode":"1f2c0363650a5940","fromSide":"right","toNode":"38f225eb8405d5a9","toSide":"left"},
+		{"id":"31bc46175ed81f99","fromNode":"38f225eb8405d5a9","fromSide":"right","toNode":"d7776b9db49894e6","toSide":"left"},
+		{"id":"a1ae0fdb7bc69362","fromNode":"38f225eb8405d5a9","fromSide":"right","toNode":"21ce07603b1f1ff9","toSide":"left"},
+		{"id":"df39cf2019c1673a","fromNode":"d7776b9db49894e6","fromSide":"right","toNode":"dadb1868ae31fad2","toSide":"left"},
+		{"id":"74fe9d64acdc001e","fromNode":"21ce07603b1f1ff9","fromSide":"right","toNode":"dadb1868ae31fad2","toSide":"left"}
+	]
+}

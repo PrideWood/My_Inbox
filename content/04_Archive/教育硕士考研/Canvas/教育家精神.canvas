@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"6b3a00bd21b86b95","type":"text","text":"理想信念","x":87,"y":-234,"width":250,"height":60,"color":"2"},
+		{"id":"9517c3a68e176671","type":"text","text":"道德情操","x":87,"y":-154,"width":250,"height":60,"color":"2"},
+		{"id":"d284c760471cc475","type":"text","text":"育人智慧","x":87,"y":-74,"width":250,"height":60},
+		{"id":"f9d2168f44736d22","type":"text","text":"躬耕态度","x":87,"y":6,"width":250,"height":60},
+		{"id":"2e5c8ee0d357f56e","type":"text","text":"仁爱之心","x":87,"y":86,"width":250,"height":60,"color":"2"},
+		{"id":"44882bd42ecaebe3","type":"text","text":"弘道追求","x":87,"y":166,"width":250,"height":60},
+		{"id":"ee340d09981bab09","type":"text","text":"心有大我、至诚报国","x":410,"y":-234,"width":250,"height":60},
+		{"id":"3c786feb1555cd6d","type":"text","text":"言为士则、行为世范","x":410,"y":-154,"width":250,"height":60},
+		{"id":"a9bf736fbf785a61","type":"text","text":"启智润心、因材施教","x":410,"y":-74,"width":250,"height":60},
+		{"id":"b767941556a90583","type":"text","text":"勤学笃行、求是创新","x":410,"y":6,"width":250,"height":60},
+		{"id":"78f1e70f167f3202","type":"text","text":"乐教爱生、甘于奉献","x":410,"y":86,"width":250,"height":60},
+		{"id":"0422066765d1a64f","type":"text","text":"胸怀天下、以文化人","x":410,"y":166,"width":250,"height":60},
+		{"id":"365be61c99b9e6a9","type":"text","text":"**坚定理想信念，树立报国育人的初心使命**","x":730,"y":-234,"width":468,"height":60},
+		{"id":"b24b132c73572c11","type":"text","text":"**培养道德情操，以德施教、为人师表**","x":730,"y":-154,"width":468,"height":60},
+		{"id":"9ac924b87e37ceae","type":"text","text":" **提升育人智慧，因材施教，关注学生个性发展**","x":730,"y":-74,"width":468,"height":60},
+		{"id":"170c95759594a71c","type":"text","text":"**保持勤学笃行，求是创新，不断提升自我**","x":730,"y":6,"width":468,"height":60},
+		{"id":"181ff97159a654fc","type":"text","text":"**弘扬仁爱之心，关注学生成长与发展**","x":730,"y":86,"width":468,"height":60},
+		{"id":"ec1b458aa54848ca","type":"text","text":"**胸怀天下，弘扬文化，培养国际视野**","x":730,"y":166,"width":468,"height":60},
+		{"id":"25b592c6782ff5f7","type":"text","text":"教育家精神","x":520,"y":-356,"width":250,"height":60,"color":"1"},
+		{"id":"7ca755a7c30a0bb4","x":-963,"y":-134,"width":250,"height":60,"color":"2","type":"text","text":"四有好老师（2014）"},
+		{"id":"bb4e4dc02601a702","x":-1080,"y":107,"width":485,"height":125,"type":"text","text":"四个引路人（2016）：“广大教师要做学生锤炼品格的引路人，做学生学习知识的引路人，做学生创新思维的引路人，做学生奉献祖国的引路人。”"},
+		{"id":"d0fddb102f1c3d6a","x":-234,"y":-74,"width":250,"height":60,"color":"2","type":"text","text":"扎实学识"}
+	],
+	"edges":[
+		{"id":"0e954f6d465f756a","fromNode":"6b3a00bd21b86b95","fromSide":"right","toNode":"ee340d09981bab09","toSide":"left"},
+		{"id":"45b161d8531b2de5","fromNode":"9517c3a68e176671","fromSide":"right","toNode":"3c786feb1555cd6d","toSide":"left"},
+		{"id":"2edff11dfaa43cf8","fromNode":"d284c760471cc475","fromSide":"right","toNode":"a9bf736fbf785a61","toSide":"left"},
+		{"id":"7600bce24454399d","fromNode":"f9d2168f44736d22","fromSide":"right","toNode":"b767941556a90583","toSide":"left"},
+		{"id":"25b23af5cff31490","fromNode":"2e5c8ee0d357f56e","fromSide":"right","toNode":"78f1e70f167f3202","toSide":"left"},
+		{"id":"aae071572929d68d","fromNode":"44882bd42ecaebe3","fromSide":"right","toNode":"0422066765d1a64f","toSide":"left"},
+		{"id":"b3f8d6e7e81547ce","fromNode":"7ca755a7c30a0bb4","fromSide":"right","toNode":"6b3a00bd21b86b95","toSide":"left"},
+		{"id":"09f2a4e4692c9513","fromNode":"7ca755a7c30a0bb4","fromSide":"right","toNode":"9517c3a68e176671","toSide":"left"},
+		{"id":"9eaab2b6de967851","fromNode":"7ca755a7c30a0bb4","fromSide":"right","toNode":"2e5c8ee0d357f56e","toSide":"left"},
+		{"id":"dd8b5d66c2ac90c5","fromNode":"7ca755a7c30a0bb4","fromSide":"right","toNode":"d0fddb102f1c3d6a","toSide":"left"},
+		{"id":"55ec6d9f23d7af0c","fromNode":"7ca755a7c30a0bb4","fromSide":"bottom","toNode":"bb4e4dc02601a702","toSide":"top"}
+	]
+}
