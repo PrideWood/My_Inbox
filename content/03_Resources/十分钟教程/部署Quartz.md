@@ -1,11 +1,14 @@
-## 🪴 Get Started
+## Official Guide
 
 Quartz requires **at least [Node](https://nodejs.org/) v22** and `npm` v10.9.2 to function correctly. Ensure you have this installed on your machine before continuing.
 
 Then, in your terminal of choice, enter the following commands line by line:
 
 ```
-git clone https://github.com/jackyzha0/quartz.gitcd quartznpm inpx quartz create
+git clone https://github.com/jackyzha0/quartz.git
+cd quartz
+npm i
+npx quartz create
 ```
 
 This will guide you through initializing your Quartz with content. Once you’ve done so, see how to:
@@ -19,49 +22,58 @@ This will guide you through initializing your Quartz with content. Once you’ve
 
 If you prefer instructions in a video format you can try following Nicole van der Hoeven’s [video guide on how to set up Quartz!](https://www.youtube.com/watch?v=6s6DT1yN4dw&t=227s)
 
+关键点：网络通畅！！！
 
+---
 
-# 一级标题
+## Basic Custom Settings
 
+关于界面样式
 
+初步修改字体和名称 quartz.config.ts 中
 
-## 二级标题
-
-
-
-### 三级标题
-
-
-
-| 第一列 | 第二列 | 第三列 |
-| ------ | ------ | ------ |
-| 1      | 2      | 3      |
-
-
-
-这是公式
-$$ρ=\frac{m}{V}$$
-
-
-
-这是Callout
-
-> [!note] 正分数指数幂
-> 给定正数 $a$ 和正整数 $m,n（n>1,且m,n互素)$，若存在唯一的正数 $b$，使得 $b^n=a^m$，则称 $b\ 为\ a\ 的\frac{m}{n}次幂$，记作 $b=a^{\frac{m}{n}}$
-
-
-
-下面是mermaid
-
-```mermaid
-graph LR
-A[直线与直线平行]
-B[直线与平面平行]
-C[平面与平面平行]
-
-A --判定--> B
-B --性质--> A
-B --判定--> C
-C --> B
-C --性质--> A
+```ts
+pageTitle: "DCBJ",  # line 11
+body: "Noto Serif SC",  # line 27
 ```
+
+访问 github 速度还是很慢，切换 ip 完成后续步骤，GPT 建议添加 CNAME 文件到根目录，并添加 www 二级域名解析到 pridewood.github.io，不知是否是这部分内容生效，目前可以访问，浏览器提示不安全，手机 Safari 可访问，还需要等待证书生效
+
+还需修改
+- quartz-static 里的图标，要保持名称与原来一致
+- 添加到 iOS 桌面自动生成图标代码、全屏显示，在 quartz-components-head.tsx 中
+
+下方代码添加在 `const iconPath = joinSegments(baseDir, "static/icon.png")` 下一行
+
+```ts
+const appleIconPath = joinSegments(baseDir, "static/apple-touch-icon.png")
+```
+
+下方代码添加在 ` <meta name="generator" content="Quartz" />` 之后
+
+```ts
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content={title} />
+```
+
+- 页脚内容在 layout.ts footer 部分
+
+```ts
+links: {
+  GitHub: "https://github.com/PrideWood",
+  "douban": "https://www.douban.com/people/PW2018",
+  "bilibili": "https://space.bilibili.com/28065777",
+```
+
+- 更改 index 显示的标题，在 yaml 中写入
+
+```yaml
+---
+title: Welcome to DCBJ
+description: 分享我的学习笔记与探索
+publish: true
+---
+```
+
+- 更改字体颜色也在quartz.config.ts中，不过要搞清楚color下面各种颜色的命名分别对应哪部分文字，需要在quartz-styles-base.scss中搞清楚，可以在初期进行测试，如果已经部署好了不要轻易改变

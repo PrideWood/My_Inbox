@@ -1,9 +1,7 @@
 ---
-titile: Welcome to DCBJ !
+title: Welcome to DCBJ !
 description: Wesley's digital garden sponsored by Quartz
 publish: "true"
-date created: 2024-02-27T20:44:34+08:00
-date modified: 2025-07-10T15:04:28+08:00
 ---
 
 欢迎来到大柴的数字花园！对于参观者来说，这个网站会是一本公开的笔记，目前展示了一些大柴感兴趣的网课笔记、读书笔记等；而对于我来说，网络上的这块小角落是我的精神粮仓，它同时记录着我对真实世界的认识的逐步深入。如果有与我兴趣相近的小伙伴发现了这里，那么恭喜你，我已经帮你做了部分敲键盘的工作。

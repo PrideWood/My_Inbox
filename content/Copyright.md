@@ -1,5 +1,6 @@
 本网站所援引的的外部信息均来自各平台的公开内容，在引用时均注明出处，如有侵权，请在公众号后台联系本人以及时删除。
-![QR-Code](https://pictures-1323793543.cos.ap-nanjing.myqcloud.com/pics/$R7397U1.jpg)
+
+![QR-Code|300](https://pictures-1323793543.cos.ap-nanjing.myqcloud.com/pics/$R7397U1.jpg)
 
 相关知识：
 - [网络转载可否适用法定许可?](https://www.ncac.gov.cn/chinacopyright/contents/12222/340340.shtml)

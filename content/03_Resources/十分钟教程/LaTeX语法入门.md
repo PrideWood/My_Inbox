@@ -160,8 +160,7 @@ $$ \alpha^{2} + \beta = \Theta $$
 ```
 
 显示效果：$$ \alpha^{2} + \beta = \Theta $$
-
-![](https://pic1.zhimg.com/v2-da3e717cf670582fbfbdddee33073524_b.jpg)
+[[希腊字母和LaTeX命令对照表]]
 
 ### 多行公式
 
