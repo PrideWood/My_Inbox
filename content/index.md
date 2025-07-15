@@ -4,11 +4,52 @@ description: Wesley's digital garden sponsored by Quartz
 publish: "true"
 ---
 
-| 邮箱                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 慕课                                                                                                                                                                                                                                                                                                           | 文献                                                                                                                                                                                                             | 社媒                                                                                                                                                                                                                                               | 工具                                                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - [QQ邮箱](https://mail.qq.com/cgi-bin/frame_html?sid=I4aZnsa6_4ENwFMN&r=fe2fb684382da6d68aa967c5a2489b0c)<br>- [网易邮箱](https://mail.163.com/js6/main.jsp?sid=iBfgTNocxnHWkpBWcCccjtlKoGgJoSus&df=mail163_letter#module=mbox.ListModule%7C%7B%22filter%22%3A%7B%22flags%22%3A%7B%22read%22%3Afalse%7D%7D%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%2C%22fids%22%3A%5B1%2C3%5D%7D)<br>- [Gmail](https://accounts.google.com/b/0/AddMailService)<br>- [腾讯企业邮箱](https://exmail.qq.com/cgi-bin/frame_html?sid=17ZrKFjgoUABmQFp,7&r=0.7686006003185659)<br>- [师大邮箱](https://mail.snnu.edu.cn/) | - [爱课程](https://www.icourses.cn/home/)<br>- [中国大学慕课](https://www.icourse163.org/home.htm?userId=1146964866#/home/course?userId=1146964866&p=2)<br>- [超星尔雅](http://i.mooc.chaoxing.com/space/index?t=1546675777011)<br>- [哔哩哔哩](http://2565.replace.favo.rew65.com/)<br>- [YouTube](https://www.youtube.com/) | - [Z-Library](https://zh.1lib.sk/)<br>- [中国知网](https://kns.cnki.net/kns8)<br>- [微信读书](https://weread.qq.com/)<br>- [Anna’s](https://annas-archive.org/)<br>- [NeatReader](https://www.neat-reader.cn/webapp#/) | - [公众号](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=593137421)<br>- [豆瓣](https://www.douban.com/)<br>- [小红书](https://www.xiaohongshu.com/explore)<br>- [知乎](https://www.zhihu.com/)<br>- [Quora](https://www.quora.com/) | - [ChatGPT](https://chatgpt.com/)<br>- [Kimi](https://kimi.ai/)<br>- [Claude](https://claude.ai/new)<br>- [DeepSeek](https://chat.deepseek.com/)<br>- [看板](https://l1bx2aeuxt8.feishu.cn/wiki/Bt5wwO9pdi364KkMG2KcV9OPnTh?table=tblo8ieGmHouRT6P&view=vewHBdB9az) |
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;">
+  <tr>
+    <td style="padding: 12px; text-align: center; font-weight: bold; border: none;">邮箱</td>
+    <td style="padding: 12px; text-align: center; font-weight: bold; border: none;">慕课</td>
+    <td style="padding: 12px; text-align: center; font-weight: bold; border: none;">文献</td>
+    <td style="padding: 12px; text-align: center; font-weight: bold; border: none;">社媒</td>
+    <td style="padding: 12px; text-align: center; font-weight: bold; border: none;">工具</td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://mail.qq.com/cgi-bin/frame_html?sid=I4aZnsa6_4ENwFMN&r=fe2fb684382da6d68aa967c5a2489b0c" style="color:#007acc; text-decoration:none;">QQ邮箱</a></td>
+    <td style="border: none;"><a href="https://www.icourses.cn/home/" style="color:#007acc; text-decoration:none;">爱课程</a></td>
+    <td style="border: none;"><a href="https://zh.1lib.sk/" style="color:#007acc; text-decoration:none;">Z-Library</a></td>
+    <td style="border: none;"><a href="https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=593137421" style="color:#007acc; text-decoration:none;">公众号</a></td>
+    <td style="border: none;"><a href="https://chatgpt.com/" style="color:#007acc; text-decoration:none;">ChatGPT</a></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://mail.163.com/js6/main.jsp?sid=iBfgTNocxnHWkpBWcCccjtlKoGgJoSus&df=mail163_letter#module=mbox.ListModule%7C%7B%22filter%22%3A%7B%22flags%22%3A%7B%22read%22%3Afalse%7D%7D%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%2C%22fids%22%3A%5B1%2C3%5D%7D" style="color:#007acc; text-decoration:none;">网易邮箱</a></td>
+    <td style="border: none;"><a href="https://www.icourse163.org/home.htm?userId=1146964866#/home/course?userId=1146964866&p=2" style="color:#007acc; text-decoration:none;">中国大学慕课</a></td>
+    <td style="border: none;"><a href="https://kns.cnki.net/kns8" style="color:#007acc; text-decoration:none;">中国知网</a></td>
+    <td style="border: none;"><a href="https://www.douban.com/" style="color:#007acc; text-decoration:none;">豆瓣</a></td>
+    <td style="border: none;"><a href="https://kimi.ai/" style="color:#007acc; text-decoration:none;">Kimi</a></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://accounts.google.com/b/0/AddMailService" style="color:#007acc; text-decoration:none;">Gmail</a></td>
+    <td style="border: none;"><a href="http://i.mooc.chaoxing.com/space/index?t=1546675777011" style="color:#007acc; text-decoration:none;">超星尔雅</a></td>
+    <td style="border: none;"><a href="https://weread.qq.com/" style="color:#007acc; text-decoration:none;">微信读书</a></td>
+    <td style="border: none;"><a href="https://www.xiaohongshu.com/explore" style="color:#007acc; text-decoration:none;">小红书</a></td>
+    <td style="border: none;"><a href="https://claude.ai/new" style="color:#007acc; text-decoration:none;">Claude</a></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://exmail.qq.com/cgi-bin/frame_html?sid=17ZrKFjgoUABmQFp,7&r=0.7686006003185659" style="color:#007acc; text-decoration:none;">腾讯企业邮箱</a></td>
+    <td style="border: none;"><a href="https://www.bilibili.com/" style="color:#007acc; text-decoration:none;">哔哩哔哩</a></td>
+    <td style="border: none;"><a href="https://annas-archive.org/" style="color:#007acc; text-decoration:none;">Anna’s</a></td>
+    <td style="border: none;"><a href="https://www.zhihu.com/" style="color:#007acc; text-decoration:none;">知乎</a></td>
+    <td style="border: none;"><a href="https://chat.deepseek.com/" style="color:#007acc; text-decoration:none;">DeepSeek</a></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://mail.snnu.edu.cn/" style="color:#007acc; text-decoration:none;">师大邮箱</a></td>
+    <td style="border: none;"><a href="https://www.youtube.com/" style="color:#007acc; text-decoration:none;">YouTube</a></td>
+    <td style="border: none;"><a href="https://www.neat-reader.cn/webapp#/" style="color:#007acc; text-decoration:none;">NeatReader</a></td>
+    <td style="border: none;"><a href="https://www.quora.com/" style="color:#007acc; text-decoration:none;">Quora</a></td>
+    <td style="border: none;"><a href="https://l1bx2aeuxt8.feishu.cn/wiki/Bt5wwO9pdi364KkMG2KcV9OPnTh?table=tblo8ieGmHouRT6P&view=vewHBdB9az" style="color:#007acc; text-decoration:none;">看板</a></td>
+  </tr>
+</table>
 
-***
+---
 
 欢迎来到大柴的数字花园！对于参观者来说，这个网站会是一本公开的笔记，目前展示了一些大柴感兴趣的网课笔记、读书笔记等；而对于我来说，网络上的这块小角落是我的精神粮仓，它同时记录着我对真实世界的认识的逐步深入。如果有与我兴趣相近的小伙伴发现了这里，那么恭喜你，我已经帮你做了部分敲键盘的工作。
 
