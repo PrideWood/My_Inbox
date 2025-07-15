@@ -4,9 +4,19 @@ description: Wesley's digital garden sponsored by Quartz
 publish: "true"
 ---
 
+| 邮箱                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 慕课                                                                                                                                                                                                                                                                                                           | 文献                                                                                                                                                                                                             | 社媒                                                                                                                                                                                                                                               | 工具                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - [QQ邮箱](https://mail.qq.com/cgi-bin/frame_html?sid=I4aZnsa6_4ENwFMN&r=fe2fb684382da6d68aa967c5a2489b0c)<br>- [网易邮箱](https://mail.163.com/js6/main.jsp?sid=iBfgTNocxnHWkpBWcCccjtlKoGgJoSus&df=mail163_letter#module=mbox.ListModule%7C%7B%22filter%22%3A%7B%22flags%22%3A%7B%22read%22%3Afalse%7D%7D%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%2C%22fids%22%3A%5B1%2C3%5D%7D)<br>- [Gmail](https://accounts.google.com/b/0/AddMailService)<br>- [腾讯企业邮箱](https://exmail.qq.com/cgi-bin/frame_html?sid=17ZrKFjgoUABmQFp,7&r=0.7686006003185659)<br>- [师大邮箱](https://mail.snnu.edu.cn/) | - [爱课程](https://www.icourses.cn/home/)<br>- [中国大学慕课](https://www.icourse163.org/home.htm?userId=1146964866#/home/course?userId=1146964866&p=2)<br>- [超星尔雅](http://i.mooc.chaoxing.com/space/index?t=1546675777011)<br>- [哔哩哔哩](http://2565.replace.favo.rew65.com/)<br>- [YouTube](https://www.youtube.com/) | - [Z-Library](https://zh.1lib.sk/)<br>- [中国知网](https://kns.cnki.net/kns8)<br>- [微信读书](https://weread.qq.com/)<br>- [Anna’s](https://annas-archive.org/)<br>- [NeatReader](https://www.neat-reader.cn/webapp#/) | - [公众号](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=593137421)<br>- [豆瓣](https://www.douban.com/)<br>- [小红书](https://www.xiaohongshu.com/explore)<br>- [知乎](https://www.zhihu.com/)<br>- [Quora](https://www.quora.com/) | - [ChatGPT](https://chatgpt.com/)<br>- [Kimi](https://kimi.ai/)<br>- [Claude](https://claude.ai/new)<br>- [DeepSeek](https://chat.deepseek.com/)<br>- [看板](https://l1bx2aeuxt8.feishu.cn/wiki/Bt5wwO9pdi364KkMG2KcV9OPnTh?table=tblo8ieGmHouRT6P&view=vewHBdB9az) |
+
+***
+
 欢迎来到大柴的数字花园！对于参观者来说，这个网站会是一本公开的笔记，目前展示了一些大柴感兴趣的网课笔记、读书笔记等；而对于我来说，网络上的这块小角落是我的精神粮仓，它同时记录着我对真实世界的认识的逐步深入。如果有与我兴趣相近的小伙伴发现了这里，那么恭喜你，我已经帮你做了部分敲键盘的工作。
 
 建立这个公开笔记网站的初衷除了喷薄欲出的分享欲之外，我也十分希望收到来自网线另一端的更多反馈，因此我在这里留下了很多联系我的方式（豆瓣、B 站、公众号）。希望能够听到你的声音。
+
+<div align="center">
+  <img src="https://img.dacnote.cn/images/202505/%E5%BC%80%E5%BF%83.png" alt="开心" width="60" />
+</div>
 
 ## 免费公开内容
 
@@ -25,7 +35,9 @@ publish: "true"
 | [[跟着Jonny学OB\|笔记工具]] | Obsidian 入门教程，受教于 [Johnny 老师](https://space.bilibili.com/432408734?spm_id_from=333.337.0.0) | 已完结 |
 | [[网课笔记]]             | 来自 B 站、中国大学 MOOC 等多个平台的公开课笔记                                                                | 更新中 |
 
----
+<div align="center">
+  <img src="https://img.dacnote.cn/images/202505/%E6%83%8A%E8%AE%B6.png" alt="惊讶" width="60" />
+</div>
 
 ## 增值付费内容
 
@@ -70,6 +82,10 @@ publish: "true"
 - 语法课（录播） 免费 参看 [大柴领读系列](#大柴领读系列)：01 语法俱乐部
 - 阅读课（直播） 1V1 ==180 RMB/h==, 1V6 80 RMB/h
 - 真题课（暂无计划）
+
+<div align="center">
+  <img src="https://img.dacnote.cn/images/202505/%E6%AF%94%E8%80%B6.png" alt="比耶" width="60" />
+</div>
 
 ## 近期更新
 
