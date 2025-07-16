@@ -1,3 +1,9 @@
+---
+date created: 2025-07-11T18:58:04+08:00
+date modified: 2025-07-16T09:34:00+08:00
+tags:
+  - 软件设置
+---
 ## Official Guide
 
 Quartz requires **at least [Node](https://nodejs.org/) v22** and `npm` v10.9.2 to function correctly. Ensure you have this installed on your machine before continuing.
@@ -76,4 +82,4 @@ publish: true
 ---
 ```
 
-- 更改字体颜色也在quartz.config.ts中，不过要搞清楚color下面各种颜色的命名分别对应哪部分文字，需要在quartz-styles-base.scss中搞清楚，可以在初期进行测试，如果已经部署好了不要轻易改变
+- 更改字体颜色也在 quartz.config.ts 中，不过要搞清楚 color 下面各种颜色的命名分别对应哪部分文字，需要在 quartz-styles-base.scss 中搞清楚，可以在初期进行测试，如果已经部署好了不要轻易改变
