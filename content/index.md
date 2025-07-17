@@ -5,7 +5,7 @@ publish: "true"
 ---
 > [!info]  Jumpboard
 >  - 邮箱 >> [QQ 邮箱](https://wx.mail.qq.com/list/readtemplate?name=account_list.html) | [网易邮箱](https://mail.163.com/js6/main.jsp?sid=bLjrGuCYxzjQLsbfHbYYLNAEpoeKQscC&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D) | [腾讯企业邮箱](https://exmail.qq.com/cgi-bin/frame_html?sid=17ZrKFjgoUABmQFp,7&r=0.7686006003185659) | [师大邮箱](https://mail.snnu.edu.cn/) | [Gmail](https://accounts.google.com/b/0/AddMailService)
->  - 慕课 >> [爱课程](https://www.icourses.cn/home/) | [中国大学慕课](https://www.icourse163.org/home.htm?userId=1146964866#/home/course?userId=1146964866&p=2) | [哔哩哔哩](ttps://www.bilibili.com/) | [YouTube](https://www.youtube.com/)
+>  - 慕课 >> [爱课程](https://www.icourses.cn/home/) | [中国大学慕课](https://www.icourse163.org/home.htm?userId=1146964866#/home/course?userId=1146964866&p=2) | [哔哩哔哩](https://www.bilibili.com/) | [YouTube](https://www.youtube.com/)
 >  - 文献 >> [中国知网](https://kns.cnki.net/kns8) | [微信读书](https://weread.qq.com/) | [Z-Library](https://zh.1lib.sk/) | [Anna's Archive](https://annas-archive.org/) | [Neat Reader](https://www.neat-reader.cn/webapp#/)
 >  - 社媒 >>  [公众号](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=593137421) | [豆瓣](https://www.douban.com/) | [小红书](https://www.xiaohongshu.com/explore) | [知乎](https://www.zhihu.com/) | [Quora](https://www.quora.com/)
 >  - 工具 >>  [ChatGPT](https://chatgpt.com/) | [Kimi](https://www.kimi.com/) | [Claude](https://claude.ai/new) | [DeepSeek](https://chat.deepseek.com/) | [Kanban](https://l1bx2aeuxt8.feishu.cn/wiki/Bt5wwO9pdi364KkMG2KcV9OPnTh?table=tblo8ieGmHouRT6P&view=vewHBdB9az) 
