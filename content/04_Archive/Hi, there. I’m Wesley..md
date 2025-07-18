@@ -6,6 +6,7 @@
 **About Me**
 
 Hi, I'm Wesley, a male graduate from Shaanxi University of Science and Technology, where I completed my Bachelor's degree in Electronic Science and Technology in 2022. While I'm still developing my skills, I enjoy reading and watching movies. I'm passionate about language learning and currently have some knowledge of English, Japanese, and French.
+
 Starting in September 2025, I will begin my Master's studies in Education at Shaanxi Normal University, where I hope to deepen my understanding of teaching and educational theory and pursue my goal of becoming a teacher.
 
 **Work Experience**
