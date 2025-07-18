@@ -11,7 +11,7 @@ Quartz requires **at least [Node](https://nodejs.org/) v22** and `npm` v10.9.2 t
 Then, in your terminal of choice, enter the following commands line by line:
 
 ```sh
-git clone https://github.com/jackyzha0/quartz.git
+git clone https://github.com/jackyzha0/quartz.git # 需要注意网络连接，有时候即使能访问github网页但是在clone时也会很卡
 cd quartz
 npm i
 npx quartz create
@@ -39,8 +39,8 @@ If you prefer instructions in a video format you can try following Nicole van de
 初步修改字体和名称 quartz.config.ts 中
 
 ```ts
-pageTitle: "DCBJ",  # line 11
-body: "Noto Serif SC",  # line 27
+pageTitle: "DCBJ",  // line 11
+body: "Noto Serif SC",  // line 27
 ```
 
 访问 github 速度还是很慢，切换 ip 完成后续步骤，GPT 建议添加 CNAME 文件到根目录，并添加 www 二级域名解析到 pridewood.github.io，不知是否是这部分内容生效，目前可以访问，浏览器提示不安全，手机 Safari 可访问，还需要等待证书生效
