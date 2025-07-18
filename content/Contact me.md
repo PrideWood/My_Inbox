@@ -2,7 +2,7 @@
 date created: 2024-02-27T20:44:34+08:00
 date modified: 2024-03-02T15:21:42+08:00
 ---
-👋 [[Hi, there. I’m Wesley.]]
+👋 [[Hi, there. I'm Wesley.]]
 
 ## 我是谁？
 
