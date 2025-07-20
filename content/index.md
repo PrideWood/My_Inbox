@@ -3,6 +3,8 @@ title: Welcome to DCBJ !
 description: Wesley's digital garden sponsored by Quartz
 publish: "true"
 ---
+<br>
+
 > [!info]  Jumpboard
 >  - 邮箱 >> [QQ 邮箱](https://wx.mail.qq.com/list/readtemplate?name=account_list.html) | [网易邮箱](https://mail.163.com/js6/main.jsp?sid=bLjrGuCYxzjQLsbfHbYYLNAEpoeKQscC&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D) | [腾讯企业邮箱](https://exmail.qq.com/cgi-bin/frame_html?sid=17ZrKFjgoUABmQFp,7&r=0.7686006003185659) | [师大邮箱](https://mail.snnu.edu.cn/) | [Gmail](https://accounts.google.com/b/0/AddMailService)
 >  - 慕课 >> [爱课程](https://www.icourses.cn/home/) | [中国大学慕课](https://www.icourse163.org/home.htm?userId=1146964866#/home/course?userId=1146964866&p=2) | [哔哩哔哩](https://www.bilibili.com/) | [YouTube](https://www.youtube.com/)
@@ -10,12 +12,10 @@ publish: "true"
 >  - 社媒 >>  [公众号](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=593137421) | [豆瓣](https://www.douban.com/) | [小红书](https://www.xiaohongshu.com/explore) | [知乎](https://www.zhihu.com/) | [Quora](https://www.quora.com/)
 >  - 工具 >>  [ChatGPT](https://chatgpt.com/) | [Kimi](https://www.kimi.com/) | [Claude](https://claude.ai/new) | [DeepSeek](https://chat.deepseek.com/) | [Kanban](https://l1bx2aeuxt8.feishu.cn/wiki/Bt5wwO9pdi364KkMG2KcV9OPnTh?table=tblo8ieGmHouRT6P&view=vewHBdB9az) 
 
-&nbsp;
-欢迎来到大柴的数字花园！对于参观者来说，这个网站会是一本公开的笔记，目前展示了一些大柴感兴趣的网课笔记、读书笔记等；而对于我来说，网络上的这块小角落是我的精神粮仓，它同时记录着我对真实世界的认识的逐步深入。如果有与我兴趣相近的小伙伴发现了这里，那么恭喜你，我已经帮你做了部分敲键盘的工作。
+<br>
+<p style="text-indent: 2em;">欢迎来到大柴的数字花园！对于参观者来说，这个网站会是一本公开的笔记，目前展示了一些大柴感兴趣的网课笔记、读书笔记等；而对于我来说，网络上的这块小角落是我的精神粮仓，它同时记录着我对真实世界的认识的逐步深入。如果有与我兴趣相近的小伙伴发现了这里，那么恭喜你，我已经帮你做了部分敲键盘的工作。</p>
 
-建立这个公开笔记网站的初衷除了喷薄欲出的分享欲之外，我也十分希望收到来自网线另一端的更多反馈，因此我在这里留下了很多联系我的方式（豆瓣、B 站、公众号）。希望能够听到你的声音。
-
-&nbsp;
+<br>
 <div align="center">
   <img src="https://img.dacnote.cn/images/202505/%E5%BC%80%E5%BF%83.png" alt="开心" width="60" />
 </div>
@@ -35,7 +35,7 @@ publish: "true"
 | [[! 通读课索引\|中学笔记]]    | 初高中主要教材概念梳理，可用于备考教资                                                                         | 待更新 |
 | [[跟着Jonny学OB\|笔记工具]] | Obsidian 入门教程，受教于 [Johnny 老师](https://space.bilibili.com/432408734?spm_id_from=333.337.0.0) | 已完结 |
 
-&nbsp;
+<br>
 <div align="center">
   <img src="https://img.dacnote.cn/images/202505/%E6%83%8A%E8%AE%B6.png" alt="惊讶" width="60" />
 </div>
@@ -84,7 +84,7 @@ publish: "true"
 - 阅读课（直播） 1V1 ==180 RMB/h==, 1V6 80 RMB/h
 - 真题课（暂无计划）
 
-&nbsp;
+<br>
 <div align="center">
   <img src="https://img.dacnote.cn/images/202505/%E6%AF%94%E8%80%B6.png" alt="比耶" width="60" />
 </div>
