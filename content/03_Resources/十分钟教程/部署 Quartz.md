@@ -47,15 +47,23 @@ body: "Noto Serif SC",  // line 27
 
 还需修改
 - quartz-static 里的图标，要保持名称与原来一致
-- 添加到 iOS 桌面自动生成图标代码、全屏显示，在 quartz-components-head.tsx 中
+- 添加到 iOS 桌面自动生成图标代码、全屏显示，在 quartz/components/head.tsx 中
 
-下方代码添加在 `const iconPath = joinSegments(baseDir, "static/icon.png")` 下一行
+在 `Head.tsx` 文件中添加 `apple-touch-icon` 以便在iOS设备上显示自定义图标。将其添加到 `<head>` 标签内的其他 `<link>` 元素旁边
+
+在 `const iconPath = joinSegments(baseDir, "static/icon.png")` 下一行添加：
 
 ```ts
 const appleIconPath = joinSegments(baseDir, "static/apple-touch-icon.png")
 ```
 
-下方代码添加在 ` <meta name="generator" content="Quartz" />` 之后
+在 `<link rel="icon" href={iconPath} />` 下一行添加：
+
+```ts
+ <link rel="apple-touch-icon" href={appleIconPath} />
+```
+
+在 ` <meta name="generator" content="Quartz" />` 之后添加：
 
 ```ts
 <meta name="apple-mobile-web-app-capable" content="yes" />
