@@ -73,7 +73,9 @@ const appleIconPath = joinSegments(baseDir, "static/apple-touch-icon.png")
 <meta name="apple-mobile-web-app-title" content={title} />
 ```
 
-### ==页脚==内容在 layout.ts footer 部分
+### 页脚内容
+
+在 layout.ts footer 部分
 
 ```ts
 links: {
@@ -82,7 +84,9 @@ links: {
   "bilibili": "https://space.bilibili.com/28065777",
 ```
 
-### 更改 ==index 显示的标题==，在 yaml 中写入
+### 更改 index 显示的标题
+
+在 yaml 中写入
 
 ```yaml
 ---
