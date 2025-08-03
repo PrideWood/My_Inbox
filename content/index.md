@@ -1,7 +1,7 @@
 ---
 title: My Inbox Site
 description: My collections from the Internet
-publish: true
+publish: "true"
 ---
 
 ## 标签系统
