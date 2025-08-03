@@ -9,8 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/PrideWood",
-      "douban": "https://www.douban.com/people/PW2018",
-      "bilibili": "https://space.bilibili.com/28065777",
+      "DCBJ": "https://dcbj.online",
     },
   }),
 }
@@ -40,11 +39,11 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
   ],
   right: [
     // Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
   ],
 }
 
